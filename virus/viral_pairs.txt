@@ -1,0 +1,3570 @@
+Abadina virus,Reoviridae
+Abelson murine leukemia virus,Retroviridae
+Abras virus,Bunyaviridae
+Abraxas grossulariata cypovirus 8,Reoviridae
+Abraxas grossulariata NPV,Baculoviridae
+Absettarov virus,Flaviviridae
+Abu Hammad virus,Bunyaviridae
+Abu Mina virus,Bunyaviridae
+Abutilon mosaic virus,Geminiviridae
+Acado virus,Reoviridae
+Acalypha yellow mosaic virus,Geminiviridae
+Acantholyda erythrocephala NPV,Baculoviridae
+Acara virus,Bunyaviridae
+Acciptrid herpesvirus 1,Herpesviridae
+Achaea janata NPV,Baculoviridae
+Acherontia atropas virus,Tetraviridae
+Acheta domestica densovirus,Parvoviridae
+Acholeplasma phage 01,Plasmaviridae
+Acholeplasma phage 10tur,Inoviridae
+Acholeplasma phage L2,Plasmaviridae
+Acholeplasma phage L51,Inoviridae
+Acholeplasma phage M1,Plasmaviridae
+Acholeplasma phage MVG51,Inoviridae
+Acholeplasma phage MV-L1,Inovindae
+Acholeplasma phage Oc1r,Inoviridae
+Acholeplasma phage v2,Plasmaviridae
+Acholeplasma phage v4,Plasmaviridae
+Acholeplasma phage v5,Plasmaviridae
+Acholeplasma phage v7,Plasmaviridae
+Acholeplasma phage vl,Plasmaviridae
+Achroia grisella NPV,Baculoviridae
+Acidalia carticcaria NPV,Baculoviridae
+Acleris gloverana NPV,Baculoviridae
+Acleris variana NPV,Baculoviridae
+Acrobasis zelleri entomopoxvirus,Poxviridae
+Acronicta aceris NPV,Baculoviridae
+Actebia fennica NPV,Baculoviridae
+Actias selene Cypovirus 4,Reoviridae
+Actias selene NPV,Baculoviridae
+Actinomycetes phage 108/016,Myoviridae
+Actinomycetes phage 119,Siphoviridae
+Actinomycetes phage A1-Dat,Siphoviridae
+Actinomycetes phage Bir,Siphoviridae
+Actinomycetes phage f115-A,Siphoviridae
+Actinomycetes phage f150A,Siphoviridae
+Actinomycetes phage f31C,Siphoviridae
+Actinomycetes phage fC,Siphoviridae
+Actinomycetes phage fUW21,Siphoviridae
+Actinomycetes phage M1,Siphoviridae
+Actinomycetes phage MSP8,Siphoviridae
+Actinomycetes phage P-a-1,Siphoviridae
+Actinomycetes phage R1,Siphoviridae
+Actinomycetes phage R2,Siphoviridae
+Actinomycetes phage SK1,Myoviridae
+Actinomycetes phage SV2,Siphoviridae
+Actinomycetes phage VP5,Siphoviridae
+Adelaide River virus,Rhabdoviridae
+Adeno-associated virus 1,Parvoviridae
+Adeno-associated virus 2,Parvoviridae
+Adeno-associated virus 3,Parvoviridae
+Adeno-associated virus 4,Parvoviridae
+Adeno-associated virus 5,Parvoviridae
+Adisura atkinsoni NPV,Baculoviridae
+Adoxophyes orana NPV,Baculoviridae
+Aedes aegypti densovirus,Parvoviridae
+Aedes aegypti entomopoxvirus,Poxviridae
+Aedes aegypti NPV,Baculoviridae
+Aedes albopictus densovirus,Parvoviridae
+Aedes annandalei NPV,Baculoviridae
+Aedes atropalpus NPV,Baculoviridae
+Aedes epactius NPV,Baculoviridae
+Aedes nigromaculis NPV,Baculoviridae
+Aedes pseudoscutellaris densovirus,Parvoviridae
+Aedes scutellaris NPV,Baculoviridae
+Aedes sollicitans NPV,Baculoviridae
+Aedes taeniorhynchus NPV,Baculoviridae
+Aedes tormentor NPV,Baculoviridae
+Aedes triseriatus NPV,Baculoviridae
+Aedia leucomelas NPV,Baculoviridae
+Aeromonas phage 29,Myoviridae
+Aeromonas phage 37,Myoviridae
+Aeromonas phage 43,Myoviridae
+Aeromonas phage 44RR2.8t,Myoviridae
+Aeromonas phage 51,Myoviridae
+Aeromonas phage 59.1,Myoviridae
+Aeromonas phage 65,Myoviridae
+Aeromonas phage Aeh1,Myoviridae
+Aeromonas phage Aeh2,Myoviridae
+Afalfa cryptic virus 1,Partitiviridae
+African cassava mosaic virus,Geminiviridae
+African green monkey cytomegalovirus,Herpesviridae
+African green monkey HHV-like virus,Herpesviridae
+African green monkey polyomavirus,Papovaviridae
+African horse sickness viruses 1 to 10,Reoviridae
+African swine fever virus,African swine fever-like viruses
+AG83-1746 virus,Bunyaviridae
+AG83-497 virus,Bunyaviridae
+Agaricus bisporus virus 1,Unassigned
+Agaricus bisporus virus 4,Partitiviridae
+Ageratum yellow vein virus,Gemniniviridae
+Aglais urticae cypovirus 2,Reoviridae
+Aglais urticae cypovirus 6,Reoviridae
+Aglais urticae NPV,Baculoviridae
+Agraulis vanillae cypovirus 2,Reoviridae
+Agraulis vanillae densovirus,Parvoviridae
+Agraulis vanillae NPV,Baculoviridae
+Agraulis vanillae virus,Tetraviridae
+Agrobacterium phage PIIBNV6,Myoviridae
+Agrobacterium phage PS8,Siphoviridae
+Agrobacterium phage PT11,Siphoviridae
+Agrobacteriurn phage Y,Siphoviridae
+Agrochola helvolva cypovirus 6,Reoviridae
+Agrochola lychnidis cypovirus 6,Reoviridae
+Agropyron mosaic virus,Potyviridae
+Agrotis exclarnationis NPV,Baculoviridae
+Agrotis ipsilon NPV,Baculoviridae
+Agrotis segeturn cypovirus 9,Reoviridae
+Agrotis segeturn NPV,Baculoviridae
+Aguacate virus,Bunyaviridae
+Ahlum water-borne virus,Tombusviridae
+Aino virus,Bunyaviridae
+Akabane virus,Bunyaviridae
+AKR (endogenous) murine leukemia virus,Retroviridae
+Alabama argillacea NPV,Baculoviridae
+Alajuela virus,Bunyaviridae
+Alcaligenes phage 8764,Siphoviridae
+Alcaligenes phage A5/A6,Siphoviridae
+Alcaligenes phage A6,Myoviridae
+Alcelaphine herpesvirus 1,Herpesviridae
+Alcelaphine herpesvirus 2,Herpesviridae
+Alenquer virus,Bunyaviridae
+Aletia oxygala NPV,Baculoviridae
+Aleutian disease virus,Parvoviridae
+Aleutian mink disease virus,Parvoviridae
+Alfalfa cryptic virus 2,Partitiviridae
+Alfalfa latent virus,Carlavirus
+Alfalfa mosaic virus,Bromoviridae
+Alfuy virus,Flaviviridae
+Allerton virus,Herpesviridae
+Alligatorweed stunting virus,Closterovirus
+Allitrich herpesvirus 1,Herpesviridae
+Allomyces arbuscula virus,Unassigned
+Almeirim virus,Reoviridae
+Almpiwar virus,Rhabdoviridae
+Alphaea phasma NPV,Baculoviridae
+Alsophila pometaria NPV,Baculoviridae
+Alstroemeria mosaic virus,Potyviridae
+Alstroemeria streak virus,Potyviridae
+Alstroemeria virus,Carlavirus
+Altamira virus,Reoviridae
+Alteromonas phage PM2,Corticoviridae
+Amapari virus,Arenaviridae
+Amaranthus leaf mottle virus,Potyviridae
+Amathes c-nigrum NPV,Baculoviridae
+Amazon lily mosaic virus,Potyviridae
+Amelia pallorarla GV,Baculoviridae
+American ground squirrel herpesvirus,Herpesviridae
+American hop latent virus,Carlavirus
+American oyster reovirus,Reoviridae
+American plum line pattern virus,Bromoviridae
+Amphelophaga rubiginosa NPV,Baculoviridae
+Amphidasis cognataria NPV,Baculoviridae
+Amsacta albistriga NPV,Baculoviridae
+Amsacta lactinea GV,Baculoviridae
+Amsacta lactinea NPV,Baculoviridae
+Amsacta moorei entomopoxvirus,Poxviridae
+Amsacta moorei NPV,Baculoviridae
+Amyelois transitella NPV,Baculoviridae
+Amyelosis chronic stunt virus,Caliciviridae
+Anadevidia peponis NPV,Baculoviridae
+Anagasta kuehniella NPV,Baculoviridae
+Anagrapha falcifera NPV,Baculoviridae
+Anagyris vein yellowing virus,Tymovirus
+Anaitis plagiata cypovirus 3,Reoviridae
+Anaitis plagiata cypovirus 6,Reoviridae
+Anaitis plagiata NPV,Baculoviridae
+Ananindeua virus,Bunyaviridae
+Anatid herpesvirus 1,Herpesviridae
+Andasibe virus,Reoviridae
+Andean potato latent virus,Tymovirus
+Andean potato mottle virus,Comoviridae
+Andraca bipunctata GV,Baculoviridae
+Aneilema virus,Potyviridae
+Angel fish reovirus,Reoviridae
+Anhanga virus,Bunyaviridae
+Anhembi virus,Bunyaviridae
+Anisota senatoria NPV,Baculoviridae
+Anomala cuprea entomopoxvirus,Poxviridae
+Anomis flava NPV,Baculoviridae
+Anomis sabulifera NPV,Baculoviridae
+Anomogyna elimata NPV,Baculoviridae
+Anopheles 8 virus,Bunyaviridae
+Anopheles A virus,Bunyaviridae
+Anopheles crucians NPV,Baculoviridae
+Antequera virus,Bunyaviridae
+Anthela varia NPV,Baculoviridae
+Anthelia hyperborea NPV,Baculoviridae
+Antheraea eucalypti virus,Tetraviridae
+Antheraea mylitta cypovirus 4,Reoviridae
+Antheraea paphia NPV,Baculoviridae
+Antheraea pemyi cypovirus 4,Reoviridae
+Antheraea pemyi NPV,Baculoviridae
+Antheraea polyphemus NPV,Baculoviridae
+Antheraea yamamai NPV,Baculoviridae
+Anthonomus glandis PV,Baculoviridae
+Anthoxan,Hordeivirus
+Anthoxanthum mosaic virus,Potyviridae
+Anthrenus museorum NPV,Baculoviridae
+Anthriscus virus,Carlavirus
+Anthriscus yellows virus,Sequiviridae
+Anticarisia gemmatalis MNPV,Baculoviridae
+Antitype xanthomista cypovirus 6,Reoviridae
+Aotine herpesvirus 1,Herpesviridae
+Aotine herpesvirus 2,Herpesviridae
+Aotine herpesvirus 3,Herpesviridae
+Apamea anceps GV,Baculoviridae
+Apamea anceps NPV,Baculoviridae
+Apamea sordens GV,Baculoviridae
+Apanteles fumiferanae virus,Polydnaviridae
+Apeu virus,Bunyaviridae
+Aphid lethal paralysis virus,Picornaviridae
+Aphodius tasmaniae entomopoxvirus,Poxviridae
+Apocheima cinerarius NPV,Baculoviridae
+Apocheima pilosaria NPV,Baculoviridae
+Apoi virus,Flaviviridae
+Aporia crataegi NPV,Baculoviridae
+Aporophyla lutulenta cypovirus 10,Reoviridae
+Apple chlorotic leaf spot virus,Trichovirus
+Apple mosaic virus,Bromoviridae
+Apple scar skin viroid,Viroids
+Apple stem grooving virus,Capillovirus
+Aproaerema modicella NPV,Baculoviridae
+Aquilegia necrotic mosaic virus,Caulimovirus
+Aquilegia virus,Potyviridae
+Arabis mosaic virus,Comoviridae
+Arabis mosaic virus large satellite,Satellites
+Arabis mosaic virus small satellite,Satellites
+Aransas Bay virus,Bunyaviridae
+Araschnia levana NPV,Baculoviridae
+Araujia mosaic virus,Potyviridae
+Arbia virus,Bunyaviridae
+Arboledas virus,Bunyaviridae
+Arbroath virus,Reoviridae
+Archippus breviplicanus GV,Baculoviridae
+Archippus packardianus GV,Baculoviridae
+Archips argyrospila GV,Baculoviridae
+Archips cerasivoranus NPV,Baculoviridae
+Archips longicellana GV,Baculoviridae
+Arctia caja cypovirus 2,Reoviridae
+Arctia caja cypovirus 3,Reoviridae
+Arctia caja NPV,Baculoviridae
+Arctia villica cypovirus 2,Reoviridae
+Ardices glatignyi NPV,Baculoviridae
+Argentine turtle herpesvirus,Herpesviridae
+Arge pectoralis NPV,Baculoviridae
+Argynnis paphia NPV,Baculoviridae
+Argyrogramma basigera NPV,Baculoviridae
+Argyrotaenia velutinana GV,Baculoviridae
+Arkonam virus,Reoviridae
+Aroa virus,Flaviviridae
+Arphia conspersa entomopoxvirus,Poxviridae
+Arracacha latent virus,Carlavirus
+Arracacha virus A,Comoviridae
+Arracacha virus B,Comoviridae
+Arracacha virus Y,Potyviridae
+Artica villica NPV,Baculoviridae
+Artichoke curly dwarf virus,Potexvirus
+Artichoke Italian latent virus,Comoviridae
+Artichoke latent virus M,Carlavirus
+Artichoke latent virus,Potyviridae
+Artichoke latent virus S,Carlavirus
+Artichoke mottled crinkle virus,Tombusviridae
+Artichoke vein banding virus,Comoviridae
+Artichoke yellow ringspot virus,Comoviridae
+Artogeia rapae granulovirus,Baculoviridae
+Artona funeralis GV,Baculoviridae
+Aruac virus,Rhabdoviridae
+Arumowot virus,Bunyaviridae
+Ascogaster argentifrons virus,Polydnaviridae
+Ascogaster quadridentata virus,Polydnaviridae
+Asinine herpesvirus 1,Herpesviridae
+Asinine herpesvirus 2,Herpesviridae
+Asinine herpesvirus 3,Herpesviridae
+Asparagus virus 1,Potyviridae
+Asparagus virus 2,Bromoviridae
+Asparagus virus 3,Potexvirus
+Aspergillus foetidus virus F,Unassigned
+Aspergillus foetidus virus S,Totiviridae
+Aspergillus niger virus S,Totiviridae
+Aspergillus ochraceous virus,Partitiviridae
+Astero campaceltis NPV,Baculoviridae
+Asystasia gangetica mottle virus,Potyviridae
+Asystasia golden mosaic virus,Geminiviridae
+Ateline herpesvirus 1,Herpesviridae
+Ateline herpesvirus 2,Herpesviridae
+Ateline herpesvirus 3,Herpesviridae
+Athetis albina GV,Baculoviridae
+Atlantic cod ulcus syndrome virus,Rhabodoviridae
+Atlantic salmon reovirus Australia,Reoviridae
+Atlantic salmon reovirus Canada,Reoviridae
+Atlantic salmon reovirus USA,Reoviridae
+Atropa belladorma virus,Rhabdoviridae
+Aucuba bacilliform virus,Badnavirus
+Aujeszky's disease virus,Herpesviridae
+Aura virus,Togaviridae
+Australian grapevine viroid,Viroids
+Autographa biloha NPV,Baculoviridae
+Autographa bimaculata NPV,Baculoviridae
+Autographa californica GV,Baculoviridae
+Autographa californica MNPV,Baculoviridae
+Autographa gamma cypovirus 12,Reoviridae
+Autographa gamma NPV,Baculoviridae
+Autographa nigrisigna NPV,Baculoviridae
+Autographa precationis NPV,Baculoviridae
+Auzduk disease virus,Poxviridae
+Avalon virus,Bunyaviridae
+Avian adeno-associated virus,Parvoviridae
+Mill Hill virus 2,Retroviridae
+Avian carcinoma,Retroviridae
+Avian encephalomyelitis virus,Picornaviridae
+Avian infectious bronchitis virus,Coronaviridae
+Avian leukosis virus - RSA,Retroviridae
+Avian myeloblastosis virus,Retroviridae
+Avian myelocytomatosis virus 29,Retroviridae
+Avian nephrites virus,Picornaviridae
+Avian paramyxovirus 1,Paramyxoviridae
+Avian paramyxovirus 2,Paramyxoviridae
+Avian paramyxovirus 3,Paramyxoviridae
+Avian paramyxovirus 4,Paramyxoviridae
+Avian paramyxovirus 5,Paramyxoviridae
+Avian paramyxovirus 6,Paramyxoviridae
+Avian paramyxovirus 7,Paramyxoviridae
+Avian paramyxovirus 8,Paramyxoviridae
+Avian paramyxovirus 9,Paramyxoviridae
+Avian reovirus 1,Reoviridae
+Avian reovirus 2,Reoviridae
+Avian reovirus 3,Reoviridae
+Avian reovirus 4,Reoviridae
+Avian reovirus 5,Reoviridae
+Avian reovirus 6,Reoviridae
+Avian reovirus 7,Reoviridae
+Avian reovirus 8,Reoviridae
+Avian reovirus 9,Reoviridae
+Avocado sunblotch viroid,Viroids
+Azuki bean mosaic virus,Potyviridae
+B19 virus,Parvoviridae
+Babahoya virus,Bunyaviridae
+Babanki virus,Togaviridae
+Baboon herpesvirus,Herpesviridae
+Baboon polyomavirus 2,Papovaviridae
+Bacillus phage 0NS11,Tectiviridae
+Bacillus phage 1A,Siphoviridae
+Bacillus phage AP50,Tectiviridae
+Bacillus phage a,Siphoviridae
+Bacillus phage BLE,Siphoviridae
+Bacillus phage f105,Siphoviridae
+Bacillus phage f29,Podoviridae
+Bacillus phage GA-1,Podoviridae
+Bacillus phage G,Myoviridae
+Bacillus phage II,Siphoviridae
+Bacillus phage IPy-1,Siphoviridae
+Bacillus phage mor1,Siphoviridae
+Bacillus phage MP13,Myoviridae
+Bacillus phage MP15,Siphoviridae
+Bacillus phage PBP1,Siphoviridae
+Bacillus phage PBS1,Myoviridae
+Bacillus phage SP10,Myoviridae
+Bacillus phage SP15,Myoviridae
+Bacillus phage SP3,Myoviridae
+Bacillus phage SP50,Myoviridae
+Bacillus phage SP8,Myoviridae
+Bacillus phage SPb,Siphoviridae
+Bacillus phage SPP1,Siphoviridae
+Bacillus phage SPy-2,Myoviridae
+Bacillus phage SST,Myoviridae
+Bacillus phage type F,Siphoviridae
+Badnavirus Piry virus,Rhabdoviridae
+Badnavirus Schistocerca gregaria entomopoxvirus,Poxviridae
+Badnavirus Tataguine virus,Bunyaviridae
+Bagaza virus,Flaviviridae
+Bahia Grande virus,Rhabdoviridae
+Bahig virus,Bunyaviridae
+Bajra streak virus,Geminiviridae
+Bakau virus,Bunyaviridae
+Baku virus,Reoviridae
+Bald eagle herpesvirus,Herpesviridae
+Bamboo mosaic virus,Potexvirus
+Bamboo mosaic virus satellite,Satellites
+Banana bunchy top virus,Circoviridae
+Banana bunchy top virus,Unassigned
+Banana streak virus,Badnavirus
+Banded krait herpesvirus,Herpesviridae
+Bandia virus,Bunyaviridae
+Bangoran virus,Rhabdoviridae
+Bangui virus,Bunyaviridae
+Banzi virus,Flaviviridae
+Barley mild mosaic virus,Potyviridae
+Barley stripe mosaic virus,Hordeivirus
+Barley virus B1,Potexvirus
+Barley yellow dwarf virus - MAV,Luteovirus
+Barley yellow dwarf virus - PAV,Luteovirus
+Barley yellow dwarf virus - RGV,Luteovirus
+Barley yellow dwarf virus - RMV,Luteovirus
+Barley yellow dwarf virus - RPV,Luteovirus
+Barley yellow dwarf virus satellite,Satellites
+Barley yellow dwarf virus - SGV,Luteovirus
+Barley yellow mosaic virus,Potyviridae
+Barley yellow striate mosaic virus,Rhabdoviridae
+Barmah Forest virus,Togaviridae
+Barranqueras virus,Bunyaviridae
+Barur virus,Rhabdoviridae
+Batai virus,Bunyaviridae
+Batarna virus,Bunyaviridae
+Batken virus,Bunyaviridae
+Batocera lineolata NPV,Baculoviridae
+Bauline virus,Reoviridae
+Bdellovibrio phage MAC 1,Microviridae
+Bdellovibrio phage MAC 1',Microviridae
+Bdellovibrio phage MAC 2,Microviridae
+Bdellovibrio phage MAC 4,Microviridae
+Bdellovibrio phage MAC 4',Microviridae
+Bdellovibrio phage MAC 5,Microviridae
+Bdellovibrio phage MAC 7,Microviridae
+Beak and feather disease virus,Circoviridae
+BeAn 157575 virus,Rhabdoviridae
+Bean calico mosaic virus,Geminiviridae
+Bean common mosaic virus,Potyviridae
+Bean comrnon mosaic necrosis virus,Potyviridae
+Bean dwarf mosaic virus,Geminiviridae
+Bean golden mosaic virus,Geminiviridae
+Bean leafroll virus,Luteovirus
+Bean mild mosaic virus,Tombusviridae
+Bean pod mottle virus,Comoviridae
+Bean rugose mosaic virus,Comoviridae
+Bean yellow mosaic virus,Potyviridae
+Bean yellow vein-banding virus,Umbravirus
+BeAr 328208 virus,Bunyaviridae
+Bearded iris mosaic virus,Potyviridae
+Bebaru virus,Togaviridae
+Bee acute paralysis virus,Picornaviridae
+Bee slow paralysis virus,Picornaviridae
+Beet cryptic virus 2,Partitiviridae
+Beet cryptic virus 3,Partitiviridae
+Beet curly top virus,Geminiviridae
+Beet leaf curl virus,Rhabdoviridae
+Beet mild yellowing vinls,Luteovirus
+Beet mosaic virus,Potyviridae
+Beet necrotic yellow vein virus,Furovirus
+Beet pseudoyellows virus,Closterovirus
+Beet soil-borne virus,Furovirus
+Beet western yellows virus,Luteovirus
+Beet western yellows virus satellite,Satellites
+Beet yellow net virus,Luteovirus
+Beet yellow stunt virus,Closterovirus
+Beet yellows virus,Closterovirus
+Bee virus X,Picornaviridae
+Belem virus,Bunyaviridae
+Belladonna mottle virus,Tymovirus
+Bellura gortynoides NPV,Baculoviridae
+Belmont virus,Bunyaviridae
+Belterra virus,Bunyaviridae
+Benevides virus,Bunyaviridae
+Benfica virus,Bunyaviridae
+Bermuda grass etched-line virus,Marafivirus
+Berne virus,Coronaviridae
+Berrimah virus,Rhabdoviridae
+Bertioga virus,Bunyaviridae
+Bet cryptic virus 1,Partitiviridae
+Bhanja virus,Bunyaviridae
+Bhendi yellow vein mosaic virus,Geminiviridae
+Bhima undulosa NPV,Baculoviridae
+Bidens mosaic virus,Potyviridae
+Bidens mottle virus,Potyviridae
+Bimbo virus,Rhabdoviridae
+Bimiti virus,Bunyaviridae
+Birao virus,Bunyaviridae
+Biston betularia cypovirus 6,Reoviridae
+Biston betularia NPV,Baculoviridae
+Biston hirtaria NPV,Baculoviridae
+Biston hispidaria NPV,Baculoviridae
+Biston marginata NPV,Baculoviridae
+Biston robustum NPV,Baculoviridae
+Biston strataria NPV,Baculoviridae
+BivensArm virus,Rhabdoviridae
+BK virus,Papovaviridae
+Black beetle virus,Nodaviridae
+Blackeye cowpea mosaic virus,Potyviridae
+Black footed penguin herpesvirus,Herpesviridae
+Blackgram mottle virus,Tombusviridae
+Black stork herpesvirus,Herpesviridae
+Blueberry leaf mottle virus,Comoviridae
+Blueberry red ringspot virus,Caulimovirus
+Blueberry shock virus,Bromoviridae
+Blueberry shoestring virus,Sobemovirus
+Blue crab virus,Rhabdoviridae
+Bluetongue viruses 1 to 24,Reoviridae
+B-lymphotropic papovavirus,Papovaviridae
+Boarmia bistortata NPV,Baculoviridae
+Boarmia obliqua NPV,Baculoviridae
+Bobaya virus,Bunyaviridae
+Bobia virus,Bunyaviridae
+Bobwhite quail herpesvirus,Herpesviridae
+Boid herpesvirus 1,Herpesviridae
+Boletus virus,Potexvirus
+Boloria dia cypovirus 2,Reoviridae
+Boma disease virus,Unassigned
+Bombyx mori cypovirus 1,Reoviridae
+Bombyx mori densovirus,Parvoviridae
+Bombyx mori NPV,Baculoviridae
+Boolarra virus,Nodaviridae
+Boraceia virus,Bunyaviridae
+Border disease virus,Flaviviridae
+Botambi virus,Bunyaviridae
+Boteke virus,Rhabdoviridae
+Bouboui virus,Flaviviridae
+Bovine adeno-associated virus,Parvoviridae
+Bovine adenoviruses 1 to 9,Adenoviridae
+Bovine astrovirus 1,Astroviridae
+Bovine astrovirus 2,Astroviridae
+Bovine coronavirus,Coronaviridae
+Bovine diarrhea virus,Flaviviridae
+Bovine encephalitis herpesvirus,Herpesviridae
+Bovine enteric calicivirus,Caliciviridae
+Bovine enterovirus 1,Picornaviridae
+Bovine enterovirus 2,Picornaviridae
+Bovine ephemeral fever virus,Rhabdoviridae
+Bovine herpesvirus 1,Herpesviridae
+Bovine herpesvirus 2,Herpesviridae
+Bovine herpesvirus 4,Herpesviridae
+Bovine herpesvirus 5,Herpesviridae
+Bovine immunodeficiency virus,Retroviridae
+Bovine leukemia virus,Retroviridae
+Bovine mamillitis virus,Herpesviridae
+Bovine papillomavirus 1,Papovaviridae
+Bovine papillomavirus 2,Papovaviridae
+Bovine papillomavirus 4,Papovaviridae
+Bovine papular stomatitis virus,Poxviridae
+Bovine parainfluenza virus 3,Paramyxoviridae
+Bovine parvovirus,Parvoviridae
+Bovine polyomavirus,Papovaviridae
+Bovine respiratory syncytial virus,Paramyxoviridae
+Bovine rhinovirus 1,Picornaviridae
+Bovine rhinovirus 2,Picornaviridae
+Bovine rhinovirus 3,Picornaviridae
+Bovine syncytial virus,Retroviridae
+Bozo virus,Bunyaviridae
+Bramble yellow mosaic virus,Potyviridae
+Brandle yellow mosaic virus,Potyviridae
+Breda virus,Coronaviridae
+Broad bean mottle virus,Bromoviridae
+Broad bean necrosis virus,Furovirus
+Broad bean stain virus,Comoviridae
+Broad bean true mosaic virus,Comoviridae
+Broad bean wilt virus 1,Comoviridae
+Broad bean wilt virus Z,Comoviridae
+Broadhaven virus,Reoviridae
+Broccoli necrotic yellows virus,Rhabdoviridae
+Brome mosaic virus,Bromoviridae
+Brome streak virus,Potyviridae
+Bromus striate mosaic virus,Geminiviridae
+Brucella phage Tb,Podoviridae
+Bruconha virus,Bunyaviridae
+Brus Laguna virus,Bunyaviridae
+Bryonia mottle virus,Potyviridae
+Bucculatrix thurbeliella NPV,Baculoviridae
+Budgerigar fledgling disease virus,Papovaviridae
+Bueberry scorch virus,Carlavirus
+Buenaventura virus,Bunyaviridae
+Buffalopox virus,Poxviridae
+Buggy Creek virus,Togaviridae
+Bujaru virus,Bunyaviridae
+Bukalasa bat virus,Flaviviridae
+Bunyamwera virus,Bunyaviridae
+Bunyip creek virus,Reoviridae
+Bupalus piniarius NPV,Baculoviridae
+Burdock stunt viroid,Viroids
+Burdock yellows virus,Closterovirus
+Bushbush virus,Bunyaviridae
+Bussuquara virus,Flaviviridae
+Butterbur mosaic virus,Carlavirus
+Buttonwillow virus,Bunyaviridae
+Buzura suppressaria NPV,Baculoviridae
+Buzura thibtaria NPV,Baculoviridae
+Bwamba virus,Bunyaviridae
+Cacao necrosis virus,Comoviridae
+Cacao swollen shoot virus,Badnavirus
+Cacao virus,Bunyaviridae
+Cacao yellow mosaic virus,Tymovirus
+Cache Valley virus,Bunyaviridae
+Cacipacore virus,Flaviviridae
+Cactus virus 2,Carlavirus
+Cactus virus X,Potexvirus
+Caddo Canyon virus,Bunyaviridae
+Cadra cautella GV,Baculoviridae
+Cadra cautella NPV,Baculoviridae
+Cadra figulilella GV,Baculoviridae
+Cadra figulilella NPV,Baculoviridae
+Caimito virus,Bunyaviridae
+Calchaqui virus,Rhabdoviridae
+California encephalitis virus,Bunyaviridae
+California harbor sealpox virus,Poxviridae
+Calliphora vornitoria NPV,Baculoviridae
+Callistephus chinensis chlorosis virus,Rhabdoviridae
+Callitrichine herpesvirus 1,Herpesviridae
+Callitrichine herpesvirus 2,Herpesviridae
+Calophasia lunula NPV,Baculoviridae
+Camation cryptic virus 1,Partitiviridae
+Camation cryptic virus 2,Partitiviridae
+Camation etched ring virus,Caulimovirus
+Camation vein moffle virus,Potyviridae
+Camel contagious ecthyma virus,Poxviridae
+Camelpox virus,Poxviridae
+Campoletis aprilis virus,Polydnaviridae
+Campoletis flavicincta virus,Polydnaviridae
+Campoletis sonorensis virus,Polydnaviridae
+Campoletis sp. virus,Polydnaviridae
+Camptochironomus tentans entomopoxvirus,Poxviridae
+Cananeia virus,Bunyaviridae
+Canarypox virus,Poxviridae
+Canary reed mosaic virus,Potyviridae
+Canavalia maritima mosaic virus,Potyviridae
+Candiru virus,Bunyaviridae
+Canephora asiatica NPV,Baculoviridae
+Canid herpesvirus 1,Herpesviridae
+Caninde virus,Reoviridae
+Canine adeno-associated virus,Parvoviridae
+Canine adenovirus 1,Adenoviridae
+Canine calicivirus,Caliciviridae
+Canine coronavirus,Coronaviridae
+Canine distemper virus,Paramyxoviridae
+Canine herpesvirus,Herpesviridae
+Canine minute virus,Paruoviridae
+Canine oral papillomavirus,Papovaviridae
+Canine parvovirus,Parvoviridae
+Canna yellow mottle virus,Badnavirus
+Caper latent virus,Carlavirus
+Cape Wrath virus,Reoviridae
+Capim virus,Bunyaviridae
+Caprine adenovirus 1,Adenoviridae
+Caprine arthritis encephalitis virus,Retroviridae
+Caprine herpesvirus 1,Herpesviridae
+Capuchin herpesvirus AL-5,Herpesviridae
+Capuchin herpesvirus AP-18,Herpesviridae
+Carajas virus,Rhabdoviridae
+Caraparu virus,Bunyaviridae
+Caraway latent virus,Carlavinus
+Cardamine latent virus,Carlavirus
+Cardamom mosaic virus,Potyviridae
+Cardiochiles nigriceps virus,Polydnaviridae
+Carey Island virus,Flaviviridae
+Caripeta divisata NPV,Baculoviridae
+carnation bacilliform virus,Rhabdoviridae
+Carnation Italian ringspot virus,Tombusviridae
+Carnation latent virus,Carlavirus
+Carnation moffle virus,Tombusviridae
+Carnation necrotic fleck virus,Closterovirus
+Carnation ringspot virus,Dianthovirus
+Carnation stunt associated viroid-like RNA,Viroids
+Carnation yellow stripe virus,Necrovirus
+Carposina niponensis GV,Baculoviridae
+Carposina niponensis NPV,Baculoviridae
+Carp pox herpesvirus,Herpesviridae
+Carrot latent virus,Rhabdoviridae
+Carrot mosaic virus,Potyviridae
+Carrot mottle virus,Umbravirus
+Carrot red leaf virus,Luteovirus
+Carrot temperate virus 1,Partitiviridae
+Carrot temperate virus 2,Partitiviridae
+Carrot temperate virus 3,Partitiviridae
+Carrot temperate virus 4,Partitiviridae
+Carrot thin leaf virus,Potyviridae
+Carrot yellow leaf virus,Closterovirus
+Casinaria arjuna virus,Polydnaviridae
+Casinaria forcipata virus,Polydnaviridae
+Casinaria infesta virus,Polydnaviridae
+Casinaria sp. virus,Polydnaviridae
+Casphalia extranea densovirus,Parvoviridae
+CassavaAmerican latent virus,Comoviridae
+Cassava brown streak-associated virus,Carlavirus
+Cassava common mosaic virus,Potexvirus
+Cassava green mottle virus,Comoviridae
+Cassava symptomless virus,Rhabdoviridae
+Cassava vein mosaic virus,Caulimovirus
+Cassava virus X,Potexvirus
+Cassia mild mosaic virus,Carlavirus
+Cassia yellow blotch virus,Bromoviridae
+Cassia yellow spot virus,Potyviridae
+Catabena esula NPV,Baculoviridae
+Catocala conjuncta NPV,Baculoviridae
+Catocala nymphaea NPV,Baculoviridae
+Catocala nymphagoga NPV,Baculoviridae
+Catopsilia pomona NPV,Baculoviridae
+Catu virus,Bunyaviridae
+Cauliflower mosaic virus,Caulimovirus
+Caulobacter phage 0023r,Leviviridae
+Caulobacter phage 004,Leviviridae
+Caulobacter phage 008r,Leviviridae
+Caulobacter phage 009,Leviviridae
+Caulobacter phage 0Cb12r,Leviviridae
+Caulobacter phage 0Cb2,Leviviridae
+Caulobacter phage 0Cb5,Leviviridae
+Caulobacter phage 0CP18,Leviviridae
+Caulobacter phage 0CP2,Leviviridae
+Caulobacter phage 0Cr14,Leviviridae
+Caulobacter phage 0Cr28,Leviviridae
+Caulobacter phage PP7,Leviviridae
+Caviid herpesvirus 1,Herpesviridae
+Caviid herpesvirus 2,Herpesviridae
+Caviid herpesvirus 3,Herpesviridae
+CbaAr 426 virus,Bunyaviridae
+Cebine herpesvirus 1,Herpesviridae
+Cebine herpesvirus 2,Herpesviridae
+Celery mosaic virus,Potyviridae
+Celery yellow spot virus,Luteovirus
+Centrosema mosaic virus,Potexvirus
+Cephalcia abietis NPV,Baculoviridae
+Cephalcia fascipennis GV,Baculoviridae
+Ceramica picta NPV,Baculoviridae
+Ceramica pisi NPV,Baculoviridae
+Cerapteryx graminis NPV,Baculouiridae
+Cercopithecine herpesvirus 10,Herpesviridae
+Cercopithecine herpesvirus 12,Herpesviridae
+Cercopithecine herpesvirus 13,Herpesviridae
+Cercopithecine herpesvirus 14,Herpesviridae
+Cercopithecine herpesvirus 15,Herpesviridae
+Cercopithecine herpesvirus 1,Herpesviridae
+Cercopithecine herpesvirus 2,Herpesviridae
+Cercopithecine herpesvirus 3,Herpesviridae
+Cercopithecine herpesvirus 4,Herpesviridae
+Cercopithecine herpesvirus 5,Herpesviridae
+Cercopithecine herpesvirus 6,Herpesviridae
+Cercopithecine herpesvirus 7,Herpesviridae
+Cercopithecine herpesvirus 8,Herpesviridae
+Cercopithecine herpesvirus 9,Herpesviridae
+Cereal chlorotic mottle virus,Rhabdoviridae
+Cerura hermelina NPV,Baculoviridae
+Cervid herpesvirus 1,Herpesviridae
+Cervid herpesvirus 2,Herpesviridae
+Cestrum virus,Caulimovirus
+CG18-20 virus,Bunyaviridae
+Chaco virus,Rhabdoviridae
+Chaffinch papillomavirus,Papovaviridae
+Chagres virus,Bunyaviridae
+Chamois contagious ecthvma virus,Poxviridae
+Chandipura virus,Rhabdoviridae
+Changuinola virus,Reoviridae
+Channel catfish herpesvirus,Herpesviridae
+Channel catfish reovirus,Reoviridae
+Chara corallina virus,Tobamoviridae
+Charleville virus,Rhabdoviridae
+Chelonid herpesvirus 1,Herpesviridae
+Chelonid herpesvirus 2,Herpesvirzdae
+Chelonid herpesvirus 3,Herpesviridae
+Chelonid herpesvirus 4,Herpesviridae
+Chelonus altitudinis virus,Polydnaviridae
+Chelonus blackburni virus,Polydnaviridae
+Chelonus insularis virus,Polydnaviridae
+Chelonus nr. curvimaculatus virus,Polydnaviridae
+Chelonus texanus virus,Polydnaviridae
+Chenopodium necrosis virus,Necrovirus
+Chenuda virus,Reoviridae
+Cherry leaf roll virus,Comoviridae
+Cherry rasp leaf virus,Comoviridae
+Chicken anemia virus,Circoviridae
+Chicken parvovirus,Paruoviridae
+Chickpea bushy dwarf virus,Potyviridae
+Chickpea chlorotic dwarf virus,Geminiviridae
+Chickpea filiform virus,Potyviridae
+Chickpea stunt virus,Luteovirus
+Chick syncytial virus,Retroviridae
+Chicory yellow blotch virus,Carlavirus
+Chicory yellow mottle virus,Comoviridae
+Chicory yellow mottle virus large satellite,Satellites
+Chikungunya virus,Togaviridae
+Chilibre virus,Bunyaviridae
+Chilli veinal mottle virus,Potyviridae
+Chilo infuscatellus GV,Baculoviridae
+Chilo iridescent virus,Iridoviridae
+Chilo sacchariphagus GV,Baculoviridae
+Chilo suppressalis GV,Baculoviridae
+Chilo suppressalis NPV,Baculoviridae
+Chimpanzee herpesvirus,Herpesviridae
+Chim virus,Bunyaviridae
+Chinese yam necrotic mosaic virus,Carlavirus
+Chino del tomate virus,Geminiviridae
+Chinook salmon reovirus,Reoviridae
+Chironomus attenuatus entomopoxvirus,Poxviridae
+Chironomus luridus entomopoxvirus,Poxviridae
+Chironomus plumosus erltomopoxvirus,Poxviridae
+Chironomus plumosus iridescent virus,Iridoviridae
+Chirono mustentans NPV,Baculoviridae
+Chlamydia phage 1,Microviridae
+Chloris striate mosaic virus,Geminiviridae
+Chobar Gorge virus,Reoviridae
+Choristoneura biennis entomopoxvirus,Poxviridae
+Choristoneura conflicta entomopoxvirus,Poxviridae
+Choristoneura conflictana GV,Baculoviridae
+Choristoneura conflictana NPV,Baculoviridae
+Choristoneura diversana NPV,Baculoviridae
+Choristoneura diversuma entomopoxvirus,Poxviridae
+Choristoneura fumiferana GV,Baculoviridae
+Choristoneura fumiferana MNPV,Baculoviridae
+Choristoneura murinana GV,Baculoviridae
+Choristoneura murinana NPV,Baculoviridae
+Choristoneura occidentalis GV,Baculoviridae
+Choristoneura occidentalis NPV,Baculoviridae
+Choristoneura pinus NPV,Baculoviridae
+Choristoneura retiniana GV,Baculoviridae
+Choristoneura rosaceana NPV,Baculoviridae
+Choristoneura viridis GV,Baculoviridae
+Chorizagrotis auxiliars entomopoxvirus,Poxviridae
+Chronic bee-paralysis virus associate satellite,Satellites
+Chrysanthemum chlorotic mottle viroid-like RNA,Viroids
+Chrysanthemum frutescens virus,Rhabdoviridae
+Chrysanthemum stunt viroid,Viroids
+Chrysanthemum vein chlorosis virus,Rhabdoviridae
+Chrysanthemum virus B,Carlavirus
+Chrysodeixis chalcites NPV,Baculoviridae
+Chrysodeixis eriosoma NPV,Baculoviridae
+Chrysopa perla NPV,Baculoviridae
+Chub reovirus Germany,Reoviridae
+Chum salmon reovirus,Reoviridae
+Cicetid herpesvirus,Herpesviridae
+Ciconiid herpesvirus 1,Herpesviridae
+Cingilia caternaria NPV,Baculoviridae
+Citrus bent leaf viroid,Viroids
+Citrus crinkly leaf virus,Bromoviridae
+Citrus exocortis viroid,Viroids
+Citrus leaf rugose virus,Bromoviridae
+Citrus leprosis virus,Rhabdoviridae
+Citrus tatter leaf virus,Capillovirus
+Citrus tristeza virus,Closterovirus
+Citrus viroid IV,Viroids
+Citrus viroids,Viroids
+Clepsis persicana GV,Baculoviridae
+Clery yellow mosaic virus,Potyviridae
+Clitoria yellow mosaic virus,Potyviridae
+Clitoria yellow vein virus,Tymovirus
+Clo Mor virus,Bunyaviridae
+Clostridium phage CEb,Myoviridae
+Clostridium phage HM2,Podoviridae
+Clostridium phage HM3,Myoviridae
+Clostridium phage HM7,Siphoviridae
+Clostridiurn phage F1,Siphoviridae
+Clover enation virus,Rhabdoviridae
+Clover yellow mosaic virus,Potexvirus
+Clover yellow vein virus,Potyviridae
+Cnaphalocrocis medinalis GV,Baculoviridae
+Cnidocampa flavescens GV,Baculoviridae
+Cnidocarnpa flavescens NPV,Baculoviridae
+Cnine adenovirus 2,Adenoviridae
+CoAr-1071 virus,Bunyaviridae
+CoAr-3624 virus,Bunyaviridae
+CoAr-3627 virus,Bunyaviridae
+Coastal Plains virus,Rhabdoviridae
+Cocal virus,Rhabdoviridae
+Cocksfoot mild mosaic virus,Sobemovirus
+Cocksfoot mottle virus,Sobemovirus
+Cocksfoot streak virus,Potyviridae
+Coconut cadang-cadang viroid,Viroids
+Coconut foliar decay virus,Circoviridae
+Coconut tinangaja viroid,Viroids
+coffee ringspot virus,Rhabdoviridae
+Coho salmon reovirus,Reoviridae
+Coital exanthema virus,Herpesviridae
+ColAn-57389 virus,Bunyaviridae
+Cole latent virus,Carlavirus
+Coleophora laricella NPV,Baculoviridae
+Coleotechnites milleri GV,Baculoviridae
+Coleus blumei viroid 1,Viroids
+Coleus blumei viroid 2,Viroids
+Coleus blumei viroid 3,Viroids
+Colias electo NPV,Baculoviridae
+Colias eurytheme NPV,Baculoviridae
+Colias lesbia NPV,Baculoviridae
+Colias philodice NPV,Baculoviridae
+Coliphage 1f1,Microviridae
+Coliphage 1f3,Microviridae
+Coliphage 1f7,Microviridae
+Coliphage 1f9,Microviridae
+Coliphage 2D/13,Microviridae
+Coliphage a10,Microviridae
+Coliphage a3,Microviridae
+ColiphageAE2,Inoviridae
+Coliphage BE/1,Microviridae
+Coliphage df3,Microviridae
+Coliphage df4,Microviridae
+Coliphage df5,Microviridae
+Coliphage Ec9,Inoviridae
+Coliphage f1,Inoviridae
+Coliphage f1,Microviridae
+Coliphage fA,Inoviridae
+Coliphage fA,Microviridae
+Coliphage fB,Microviridae
+Coliphage fC,Microviridae
+Coliphage fd,Inoviridae
+Coliphage fK,Microviridae
+Coliphage fR,Microviridae
+Coliphage fX174,Microviridae
+Coliphage G13,Microviridae
+Coliphage G14,Microviridae
+Coliphage G4,Microviridae
+Coliphage G6,Microviridae
+Coliphage h8,Microviridae
+Coliphage HR,Inoviridae
+Coliphage l,Siphoviridae
+Coliphage M13,Inoviridae
+coliphage M20,Microviridae
+Coliphage o6,Microviridae
+Coliphage S13,Microviridae
+Coliphage St-1,Microviridae
+Coliphage T2,Myoviridae
+Coliphage T4,Myoviridae
+Coliphage T6,Myoviridae
+Coliphage T7,Podoviridae
+Coliphage U3,Microviridae
+Coliphage WA/1,Microviridae
+Coliphage WF/1,Microviridae
+Coliphage WW/1,Microviridae
+Coliphage x3,Microviridae
+Coliphage ZG/2,Inoviridae
+Coliphage ZJ/2,Inoviridae
+Colletotrichum lindemuthianum virus,Unassigned
+Colocasia bobone disease virus,Rhabdoviridae
+Colombian datura virus,Potyviridae
+Coloradia pandora NPV,Baculoviridae
+Colorado tick fever virus,Reoviridae
+Columbia SK virus,Picornaviridae
+Columbid herpesvirus 1,Herpesviridae
+Columnea latent viroid,Viroids
+Commelina mosaic virus,Potyviridae
+Commelina virus X,Potexvirus
+Commelina yellow mottle virus,Badnavirus
+Connecticut virus,Rhabdoviridae
+Contagious ecthyma virus,Poxviridae
+Contagious pustular dermatitis virus,Poxviridae
+Corcyrace phalonica NPV,Baculoviridae
+Corfu virus,Bunyaviridae
+Coriander feathery red vein virus,Rhabdoviridae
+Cormorant herpesvirus,Herpesviridae
+Corriparta virus,Reoviridae
+Coryneforms phage 7/26,Podoviridae
+Coryneforms phage A19,Myoviridae
+Coryneforms phage AN25SS-1,Podoviridae
+Coryneforms phage Arp,Siphoviridae
+Coryneforms phage A,Siphoviridae
+Coryneforms phage BL3,Siphoviridae
+Coryneforms phage B,Siphoviridae
+Coryneforms phage CONX,Siphoviridae
+Coryneforms phage fA8010,Siphoviridae
+Coryneforrns phage MT,Siphoviridae
+Cosmotriche podatoria NPV,Baculoviridae
+Cossus cossus NPV,Baculoviridae
+Cotesia congregata virus,Polydnaviridae
+Cotesia flavipes virus,Polydnaviridae
+Cotesia glomerata virus,Polydnaviridae
+Cotesia hyphantriae virus,Polydnaviridae
+Cotesia kariyai virus,Polydnaviridae
+Cotesia margiruventris virus,Polydnaviridae
+Cotesia melanoscela virus,Polydnaviridae
+Cotesia rubecula virus,Polydnaviridae
+Cotesia schaeferi virus,Polydnaviridae
+Cotia virus,Poxviridae
+Cotton anthocyanosis virus,Luteovirus
+Cotton leaf crumple virus,Geminiviridae
+Cotton leaf curl virus,Gemininiviridae
+Cottontail herpesvirus,Herpesviridae
+Cottontail rabbit papillomavirus,Papovaviridae
+Cowbone Ridge virus,Flaviviridae
+Cow parsnip mosaic virus,Rhabdoviridae
+Cowpea aphid-borne mosaic virus,Potyviridae
+Cowpea chlorotic mottle virus,Bromovirdae
+Cowpea golden mosaic virus,Geminiviridae
+Cowpea green vein banding virus,Potyviridae
+Cowpea mild mottle virus,Carlavirus
+Cowpea mosaic virus,Comoviridae
+Cowpea mottle virus,Tombusviridae
+Cowpea rugose mosaic virus,Potyviridae
+Cowpea severe mosaic virus,Comoviridae
+Cowpox virus,Poxviridae
+Crane herpesvirus,Herpesviridae
+Cricket paralysis virus,Picornaviridae
+Crimean-Congo hemorrhagic fever virus,Bunyaviridae
+Crimson clover latent virus,Comoviridae
+Crinum mosaic virus,Potyviridae
+Croatian clover virus,Potyviridae
+Crocus tomasinianus virus,Potyviridae
+Croton yellow vein mosaic virus,Geminiviridae
+Cryphonectria hypovirus 1-EP713,Hypoviridae
+Cryphonectria hypovirus 1-EP747,Hypoviridae
+Cryphonectria hypovirus 2-NB58,Hypoviridae
+Cryphonectria hypovirus 3-GH2,Hypoviridae
+Cryptoblabes lariciana NPV,Baculoviridae
+Cryptophlebia leucotreta GV,Baculoviridae
+Cryptothelea junodi NPV,Baculoviridae
+Cryptothelea variegata NPV,Baculoviridae
+CSIRO village virus,Reoviridae
+Ctrus variegation virus,Bromoviridae
+Cucumber chlorotic spot virus,Closterovirus
+Cucumber cryptic virus,Partitiviridae
+Cucumber green mottle mosaic virus,Tobamoviridae
+Cucumber mosaic virus,Bromoviridae
+Cucumber mosaic virus satellite,Satellites
+Cucumber necrosis virus,Tombusviridae
+Cucumber soil-borne virus,Tombusviridae
+Cucumber vein yellowing virus,Unassigned
+Cucumber yellows virus,Closterovirus
+Cucurnber leaf spot virus,Tombusviridae
+Culcuta panterinaria NPV,Baculoviridae
+Culex pipiens NPV,Baculoviridae
+Culex salinarius NPV,Baculoviridae
+Cyanobacteria phage A-4(L),Podoviridae
+Cyanobacteria phage AC-1,Podoviridae
+Cyanobacteria phage AS-1,Myoviridae
+Cyanobacteria phage LPP-1,Podoviridae
+Cyanobacteria phage N1,Myoviridae
+Cyanobacteria phage S-2L,Siphoviridae
+Cyanobacteria phage S-4L,Siphooiridae
+Cyanobacteria phage S-6(L),Myoviridae
+Cyanobacteria phage SM-1,Podoviridae
+Cycas necrotic stunt virus,Comoviridae
+Cyclophragma undans NPV,Baculoviridae
+Cyclophragma yamadai NPV,Baculoviridae
+Cydia nigricana GV,Baculoviridae
+Cydia pomonella granulovirus,Baculoviridae
+Cydia pomonella NPV,Baculoviridae
+Cymbidium mosaic virus,Potexvirus
+Cymbidium ringspot virus satellite,Satellites
+Cymbidium ringspot virus,Tombusviridae
+Cynara virus,Rhabdoviridae
+Cynodon mosaic virus,Carlavirus
+Cynosurus mottle virus,Sobemovirus
+Cyprinid herpesvirus 1,Herpesviridae
+Cypripedium calceolus virus,Potyviridae
+Dabakala virus,Bunyaviridae
+D'Aguilar virus,Reoviridae
+Dahlia mosaic virus,Caulimovirus
+Dakar bat virus,Flaviviridae
+DakArk 7292 virus,Rhabdoviridae
+Danaus plexippus cypovirus 3,Reoviridae
+Dandelion latent virus,Carlavirus
+Dandelion yellow mosaic virus,Sequiviridae
+Daphne virus S,Carlavirus
+Daphne virus X,Potexvirus
+Daphne virus Y,Potyviridae
+Darna trima GV,Baculoviridae
+Darna trim virus,Tetraviridae
+Dasheen mosaic virus,Potyviridae
+Dasychira abietis NPV,Baculoviridae
+Dasychira argentata NPV,Baculoviridae
+Dasychira axutha NPV,Baculoviridae
+Dasychira basiflava NPV,Baculoviridae
+Dasychira confusa NPV,Baculoviridae
+Dasychira glaucinoptera NPV,Baculoviridae
+Dasychira locuples NPV,Baculoviridae
+Dasychira mendosa NPV,Baculoviridae
+Dasychira pseudabietis NPV,Baculoviridae
+Dasychira pudibunda cypovirus 2,Reoviridae
+Dasychira pudibunda NPV,Baculoviridae
+Dasychira pudibunda virus,Tetraviridae
+Datura distortion mosaic virus,Potyviridae
+Datura mosaic virus,Potyviridae
+Datura necrosis virus,Potyviridae
+Datura shoestring virus,Potyviridae
+Datura virus 437,Potyviridae
+Datura yellow vein virus,Rhabdoviridae
+Deer fibroma virus,Papovaviridae
+Deer papillomavirus,Papovaviridae
+Deilephila elpenor NPV,Baculoviridae
+Deileptenia ribeata NPV,Baculoviridae
+Demodema boranensis entomopoxvirus,Poxviridae
+Dendrobium leaf streak virus,Rhabodoviridae
+Dendrobium mosaic virus,Potyviridae
+Dendrobium vein necrosis virus,Closterovirus
+Dendrolimus latipennis NPV,Baculoviridae
+Dendrolimus pini NPV,Baculoviridae
+Dendrolimus punctatus NPV,Baculoviridae
+Dendrolimus sibiricus GV,Baculoviridae
+Dendrolimus spectabilis cypovirus 1,Reoviridae
+Dendrolimus spectabilis GV,Baculoviridae
+Dendrolimus spectabilis NPV,Baculoviridae
+Dengue virus 1,Flaviviridae
+Dengue virus 2,Flaviviridae
+Dengue virus 3,Flaviviridae
+Dengue virus 4,Flaviviridae
+Dengue virus group,Flaviviridae
+Densovirinae,Parvoviridae
+Densovirus,Parvoviridae
+Dependovirus,Parvoviridae
+Dera Ghazi Khan virus,Bunyaviridae
+Dera Ghazi Khan virus Group,Bunyaviridae
+Dermeste lardarius NPV,Baculoviridae
+Dermolepida albohirtum entomopoxvirus,Poxviridae
+Desmodium mosaic virus,Potyviridae
+Desmodium yellow mottle virus,Genus Tymovirus
+Dhori virus,Orthomyxoviridae
+Diachrysia orichalcea NPV,Baculoviridae
+Diacrisia obliqua GV,Baculoviridae
+Diacrisia obliqua NPV,Baculoviridae
+Diacrisia purpurata NPV,Baculoviridae
+Diacrisia virginica GV,Baculoviridae
+Diacrisia virginica NPV,Baculoviridae
+Diadegma acronyctae virus,Polydnaviridae
+Diadegma interruptum virus,Polydnaviridae
+Diadegma terebrans virus,Polydnaviridae
+Diaphora mendica NPV,Baculoviridae
+Diatraea grandiosella NPV,Baculoviridae
+Diatraea saccharalis densovirus,Parvoviridae
+Diatraea saccharalisGV,Baculoviridae
+Diatraea saccharalis NPV,Baculoviridae
+Dichocrocis punctiferalis NPV,Baculoviridae
+Dictyoploca japonica NPV,Baculoviridae
+Dicycla oo NPV,Baculoviridae
+Digitaria streak virus,Geminiviridae
+Digitaria striate mosaic virus,Geminiviridae
+Digitaria striate virus,Rhabdoviridae
+Dilta hibernica NPV,Baculoviridae
+Diodia vein chlorosis virus,Genus Closterovirus
+Diolcogaster facetosa virus,Polydnaviridae
+Dionychopus amasis GV,Baculoviridae
+Dioryctria abietella GV,Baculoviridae
+Dioryctria pseudotsugella NPV,Baculoviridae
+Dioscorea alata ring mottle virus,Potyviridae
+Dioscorea bacilliform virus,Genus Badnavirus
+Dioscorea green banding virus syn. yam mosaic virus,Potyviridae
+Dioscorea latent virus,Genus Potexvirus
+Dioscorea trifida virus,Potyviridae
+Diparopsis watersi NPV,Baculoviridae
+Dipladenia mosaic virus,Potyviridae
+Diplocarpon rosae virus,Partitiviridae
+Diprion hercyniae NPV,Baculoviridae
+Diprion leuwanensis NPV,Baculoviridae
+Diprion nipponica NPV,Baculoviridae
+Diprion pallida NPV,Baculoviridae
+Diprion pindrowi NPV,Baculoviridae
+Diprion pini NPV,Baculoviridae
+Diprion polytoma NPV,Baculoviridae
+Diprion similis NPV,Baculoviridae
+Dirphia gragatus NPV,Baculoviridae
+Dobrava-Belgrade virus,Bunyaviridae
+dock mottling mosaic virus,Potyviridae
+docropsis wallaby herpesvirus syn. macropodid herpesvirus 2,Herpesviridae
+Dolichos yellow mosaic virus,Geminiviridae
+dolphin distemper virus,Paramyxoviridae
+dolphinpox virus,Poxviridae
+Doratifera casta NPV,Baculoviridae
+Douglas virus,Bunyaviridae
+Drosophila C virus,Picornaviridae
+Drosophila X virus,Birnaviridae
+Dryobota furva GV,Baculoviridae
+Dryobota furva NPV,Baculoviridae
+Dryobota protea NPV,Baculoviridae
+Dryobotodes monochroma NPV,Baculoviridae
+Dry Tortugas virus,Bunyaviridae
+dsDNA Satellites,Satellites
+duck adenovirus 1,Adenoviridae
+duck adenovirus 2,Adenoviridae
+duck astrovirus 1,Astroviridae
+duck hepatitis B virus,Hepadnaviridae
+duck plague herpesvirus syn. anatid herpesvirus 1,Herpesviridae
+Dugbe virus,Bunyaviridae
+Dulcamara mottle virus,Genus Tymovirus
+Dulcamara virus A,Genus Carlavirus
+Dulcamara virus B,Genus Carlavirus
+Dusona sp. virus,Polydnaviridae
+Duvenhage virus,Rhabdoviridae
+Earias insulana NPV,Baculoviridae
+Eastern equine encephalitis virus,Togaviridae
+Ebola virus Reston,Filoviridae
+Ebola virus Sudan,Filoviridae
+Ebola virus Zaire,Filoviridae
+Echinochloa hoja blanca virus,Genus Tenuivirus
+Echinochloa ragged stunt virus,Reoviridae
+Eclipta yellow vein virus,Geminiviridae
+Ecpantheria icasiaGV,Baculoviridae
+Ecpantheria icasia NPV,Baculoviridae
+ectromelia virus,Poxviridae
+Ectropis crepuscularia NPV,Baculoviridae
+Ectropis obliquaGV,Baculoviridae
+Ectropis obliqua NPV,Baculoviridae
+Edge Hill virus,Flaviviridae
+eel virus American,Rhabdoviridae
+eel virus B12,Rhabdoviridae
+EgAn 1825-61 virus,Bunyaviridae
+eggplant green mosaic virus,Potyviridae
+eggplant mild mottle virus,Genus Carlavirus
+eggplant mosaic virus,Genus Tymovirus
+eggplant mottled crinkle virus,Tombusviridae
+eggplant mottled dwarf virus,Rhabdoviridae
+eggplant severe mottle virus,Potyviridae
+eggplant virus syn. eggplant mild mottle virus,Genus Carlavirus
+eggplant yellow mosaic virus,Geminiviridae
+Egtved virus syn. viral hemorrhagic septicemia virus,Rhabdoviridae
+Elapid herpesvirus,Herpesviridae
+Eldeberry latent virus,Tombusviridae
+Elderberry virusA,Carlavirus
+Elderberry virus,Carlavirus
+Elephantid herpesvirus,Herpesviridae
+Elephant loxondontal herpesvirus,Herpesviridae
+Elephant papillomavirus,Papovaviridae
+Ellidaey virus,Reoviridae
+Elm mottle virus,Bromoviridae
+Embu virus,Poxviridae
+Encephalomyocarditis virus,Picornaviridae
+Ennomos quercaria NPV,Baculoviridae
+Ennomos quercinaria NPV,Baculoviridae
+Ennomos subsignarius NPV,Baculoviridae
+Enseada virus,Bunyaviridae
+Entamoeba virus,Rhabdoviridae
+Entebbe bat virus,Flaviviridae
+Enterobacteria phage 01,Myoviridae
+Enterobacteria phage 112,Leviviridae
+Enterobacteria phage 11F,Myoviridae
+Enterobacteria phage 121,Myoviridae
+Enterobacteria phage 16-19,Myoviridae
+Enterobacteria phage 3,Myoviridae
+Enterobacteria phage 3T,Myoviridae
+Enterobacteria phage 50,Myoviridae
+Enterobacteria phage 5845,Myoviridae
+Enterobacteria phage 66F,Myoviridae
+Enterobacteria phage 7-11,Podoviridae
+Enterobacteria phage 7480b,Podoviridae
+Enterobacteria phage 8893,Myoviridae
+Enterobacteria phage 9/0,Myoviridae
+Enterobacteria phage 9266,Myoviridae
+Enterobacteria phage a1,Leviviridae
+Enterobacteria phage al,Myoviridae
+Enterobacteria phage b4,Siphoviridae
+Enterobacteria phage B6,Leviviridae
+Enterobacteria phage B7,Leviviridae
+Enterobacteria phage Beccles,Myoviridae
+Enterobacteria phage b,Leviviridae
+Enterobacteria phage BZ13,Leviviridae
+Enterobacteria phage C16,Myoviridae
+Enterobacteria phage C-1,Leviviridae
+Enterobacteria phage C-2,Inoviridae
+Enterobacteria phage C2,Leviviridae
+Enterobacteria phage DdVI,Myoviridae
+Enterobacteria phage Esc-7-11,Podoviridae
+Enterobacteria phage f2,Leviviridae
+Enterobacteria phage f92,Myoviridae
+Enterobacteria phage FC3-9,Myoviridae
+Enterobacteria phage fcan,Leviviridae
+Enterobacteria phage fII,Podoviridae
+Enterobacteria phage fI,Podoviridae
+Enterobacteria phage Folac,Leviviridae
+Enterobacteria phage fr,Leviviridae
+Enterobacteria phage GA,Leviviridae
+Enterobacteria phage H-19J,Siphoviridae
+Enterobacteria phage H,Podoviridae
+Enterobacteria phage I2-2,Inoviridae
+enterobacteria phage Ia,Leviviridae
+Enterobacteria phage ID2,Leviviridae
+Enterobacteria phage If 1,Inoviridae
+Enterobacteria phage If2,Inoviridae
+Enterobacteria phage Ike,Inoviridae
+Enterobacteria phage Jersey,Siphoviridae
+Enterobacteria phage JP34,Leviviridae
+Enterobacteria phage JP501,Leviviridae
+Enterobacteria phage K19,Myoviridae
+Enterobacteria phage KU1,Leviviridae
+Enterobacteria phage M11,Leviviridae
+Enterobacteria phage M12,Leviviridae
+Enterobacteria phage M,Leviviridae
+Enterobacteria phage MS2,Leviviridae
+Enterobacteria phage Mu,Myoviridae
+Enterobacteria phage N4,Podoviridae
+Enterobacteria phage NL95,Leviviridae
+Enterobacteria phage P1,Myoviridae
+Enterobacteria phage P22,Podoviridae
+Enterobacteria phage P2,Myoviridae
+Enterobacteria phage PI,Leviviridae
+Enterobacteria phage pilHa,Leviviridae
+Enterobacteria phage PR64FS,Inoviridae
+Enterobacteria phage PRD1,Tectiviridae
+Enterobacteria phage PST,Myoviridae
+Enterobacteria phage PTB,Podoviridae
+Enterobacteria phage Q8,Podoviridae
+Enterobacteria phage Qb,Leviviridae
+Enterobacteria phage R17,Leviviridae
+Enterobacteria phage R23,Leviviridae
+Enterobacteria phage R34,Leviviridae
+Enterobacteria phage R,Podoviridae
+Enterobacteria phage sd,Podoviridae
+Enterobacteria phage SF,Inoviridae
+Enterobacteria phage SMB,Myoviridae
+Enterobacteria phage SMP2,Myoviridae
+Enterobacteria phage SP,Leviviridae
+Enterobacteria phage ST,Leviviridae
+Enterobacteria phage T3,Podoviridae
+Enterobacteria phage T5,Siphoviridae
+enterobacteria phage tf-1,Inoviridae
+Enterobacteria phage TH1,Leviviridae
+Enterobacteria phage t,Leviviridae
+Enterobacteria phage TW18,Leviviridae
+Enterobacteria phage TW28,Leviviridae
+Enterobacteria phage ViII,Siphoviridae
+Enterobacteria phage ViI,Myoviridae
+Enterobacteria phage VK,Leviviridae
+Enterobacteria phage W31,Podoviridae
+Enterobacteria phage X,Inoviridae
+Enterobacteria phage X,Siphoviridae
+Enterobacteria phage Y,Podoviridae
+Enterobacteria phage ZG/1,Leviviridae
+Enterobacteria phage ZG/3A,Siphoviridae
+Enterobacteria phage ZIK/ 1,Leviviridae
+Enterobacteria phage ZJ/1,Leviviridae
+Enterobacteria phage ZL/3,Leviviridae
+Enterobacteria phage ZS/3,Leviviridae
+Enypia venata NPV,Baculoviridae
+Enytus montanus virus,Polydnaviridae
+Epargyreus clarus NPV,Baculoviridae
+Ephestia elutella NPV,Baculoviridae
+Epinotia aporema GV,Baculoviridae
+Epiphyas postvittana NPV,Baculoviridae
+Epizootic hemorrhagic disease viruses 1 to 10,Reoviridae
+Epsilon virus,Tetraviridae
+Epstein-Barr virus,Herpesviridae
+Equid herpesvirus 1,Herpesviridae
+Equid herpesvirus 2,Herpesviridae
+Equid herpesvirus 3,Nerpesviridae
+Equid herpesvirus 4,Herpesviridae
+Equid herpesvirus 5,Herpesviridae
+Equid herpesvirus 6,Herpesviridae
+Equid herpesvirus 7,Herpesviridae
+Equid herpesvirus 8,Herpesviridae
+Equine abortion herpesvirus,Herpesviridae
+Equine adeno-associated virus,Parvoviridae
+Equine adenovirus 1,Adenoviridae
+Equine arteritis virus,Arterivirus
+Equine cytomegalovirus,Herpesviridae
+Equine encephalosis viruses 1 to 7,Reoviridae
+Equine herpesvirus 1,Herpesviridae
+Equine herpesvirus 3,Herpesviridae
+Equine herpesvirus 4,Herpesviridae
+Equine herpesvirus 5,Herpesviridae
+Equine infectious anemia virus,Retroviridae
+Equine papillomavirus,Papovaviridae
+Equine rhinopneumonitis virus,Herpesviridae
+Equine rhinovirus 1,Picornaviridae
+Equine rhinovirus 2,Picornaviridae
+Equine rhinovirus 3,Picornaviridae
+Erannis ankeraria NPV,Baculoviridae
+Erannis defoliaria NPV,Baculoviridae
+Erannis tiliaria NPV,Baculoviridae
+Erannis vancouverensis NPV,Baculoviridae
+Eratmapodites quinquevittatus NPV,Baculoviridae
+Eret-147 virus,Bunyaviridae
+Eriborus terebrans virus,Polydnaviridae
+Erinaceid herpesvirus 1,Herpesviridae
+Erinnyis ello NPV,Baculoviridae
+Eriogaster lanestris cypovirus 2,Reoviridae
+Eriogaster lanestris cypovirus 6,Reoviridae
+Eriogyna pyretorum NPV,Baculoviridae
+Erve virus,Bunyaviridae
+Erysimum latent virus,Tymovirus
+Esocid herpesvirus 1,Herpesviridae
+Essaouira virus,Reoviridae
+Estero Real virus,Bunyaviridae
+Estigmene acrea GV,Baculoviridae
+Estigmene acrea NPV,Baculoviridae
+Eubenangee virus,Reoviridae
+Eucocystis meeki virus,Tetraviridae
+Euonymus fasciation virus,Rhabdoviridae
+Euonymus moscuc virus,Carlavirus
+Eupatorium yellow vein virus,Geminiviridae
+Euphorbia mosaic virus,Geminiviridae
+Euphorbia ringspot virus,Potyviridae
+Eupithecia annulata NPV,Baculoviridae
+Eupithecia longipalpata NPV,Baculoviridae
+Euplexia lucipara GV,Baculoviridae
+Euploea corea virus,Tetraviridae
+Euproctis bipunctapex NPV,Baculoviridae
+Euproctis chrysorrhoea NPV,Baculoviridae
+Euproctis flava NPV,Baculoviridae
+Euproctis flavinata NPV,Baculoviridae
+Euproctis karghalica NPV,Baculoviridae
+Euproctis pseudoconspersa NPV,Baculoviridae
+Euproctis similis NPV,Baculoviridae
+Euproctis subflava NPV,Baculoviridae
+Eupsilia satellitia GV,Baculoviridae
+European bat virus 1,Rhabdoviridae
+European bat virus 2,Rhabdoviridae
+European brown hare syndrome virus,Caliciviridae
+European elk papillomavirus,Papovaviridae
+European ground squirrel cytomegalovirus,Herpesviridae
+European hedgehog herpesvirus,Herpesviridae
+European wheat striate mosaic virus,Tenuivirus
+Euthyatira pudens NPV,Baculoviridae
+Euxoa auxiliaris densovirus,Parvoviridae
+Euxoa auxiliaris GV,Baculoviridae
+Euxoa auxiliaris NPV,Baculoviridae
+Euxoa messoria GV,Baculoviridae
+Euxoa messoria NPV,Baculoviridae
+Euxoa ochrogaster GV,Baculoviridae
+Euxoa ochrogaster NPV,Baculoviridae
+Euxoa scandens cypovirus 5,Reoviridae
+Euxoa scandens NPV,Baculoviridae
+Everglades virus,Togaviridae
+Exartema appendiceum GV,Baculoviridae
+Eyach virus,Reoviridae
+Facey's Paddock virus,Bunyaviridae
+Falconid herpesvirus 1,Herpesviridae
+Falcon inclusion body disease,Herpesviridae
+Farallon virus,Bunyaviridae
+Felid herpesvirus 1,Herpesviridae
+Feline calicivirus,Caliciviridae
+Feline herpesvirus 1,Herpesviridae
+Feline imrnunodeficiency virus,Retroviridae
+Feline infectious peritonitis virus,Coronaviridae
+Feline leukemia virus,Retroviridae
+Feline parlleukopenia virus,Parvoviridae
+Feline parvovirus,Parvoviridae
+feline syncytial virus,Retroviridae
+Feline viral rhinotracheitis virus,Herpesviridae
+Feltia subterranea GV,Baculoviridae
+Feralia jacosa NPV,Baculoviridae
+Fescue cryptic virus,Partitiviridae
+Festuca leaf streak virus,Rhabdoviridae
+Festuca necrosis virus,Closterovirus
+Fetal rhesus kidney virus,Papovaviridae
+Ficus carica virus,Potyviridae
+Field mouse herpesvirus,Herpesviridae
+Figulus subleavis entomopoxvirus,Poxviridae
+Fig virus S,Carlavirus
+Figwort mosaic virus,Caulimovirus
+Fiji disease virus,Reoviridae
+Filaree red leaf virus,Luteovirus
+Finger rnillet mosaic virus,Rhabdoviridae
+Finkel-Biskis-Jinkins murine sarcoma virus,Retroviridae
+Fin V-707 virus,Bunyaviridae
+Flanders virus,Rhabdoviridae
+Flexal virus,Arenaviridae
+Flock house virus,Nodaviridae
+Flounder virus,Iridoviridae
+Foot-and-mouth disease virus A,Picornaviridae
+Foot-and-mouth disease virus ASIA 1,Picornaviridae
+Foot-and-mouth disease virus C,Picornaviridae
+Foot-and-mouth disease virus O,Picornaviridae
+Foot-and-mouth disease virus SAT 1,Picornaviridae
+Foot-and-mouth disease virus SAT 2,Picornaviridae
+Foot-and-mouth disease virus SAT 3,Picornaviridae
+Forecariah virus,Bunyaviridae
+Fort Morgan virus,Togaviridae
+Fort Sherman virus,Bunyaviridae
+Foula virus,Reoviridae
+Fowl adenoviruses 1 to 12,Adenoviridae
+Fowl calicivirus,Caliciviridae
+Fowlpox virus,Poxviridae
+Foxtail mosaic virus,Potexvirus
+Frangipani mosaic virus,Tobamoviridae
+Fraser Point virus,Bunyaviridae
+Freesia mosaic virus,Potyviridae
+Friend murine leukemia virus,Retroviridae
+Frijoles virus,Bunyaviridae
+Frog herpesvirus 4,Herpesviridae
+Frog virus 1,Iridoviridae
+Frog virus 2,Iridoviridae
+Frog virus 3,Iridovirtdae
+Frog viruses 5 to 24,Iridoviridae
+Frog virus L2,Iridoviridae
+Frog virus L4,Iridoviridae
+Frog virus L5,Iridoviridae
+Fromede virus,Reoviridae
+Fuchsia latent virus,Carlavirus
+Fujinami sarcoma virus,Retroviridae
+Fukuoka virus,Rhabdoviridae
+Furcraea necrotic streak virus,Dianthovirus
+Gabek Forest virus,Bunyaviridae
+Gadget's Gully virus,Flaviviridae
+Gaeumannomyces graminis virus 019/6-A,Partitiviridae
+Gaeumannomyces graminis virus 45/101-C,Unassigned
+Gaeumannomyces graminis virus 87-1-H,Totiviridae
+Gaeumannomyces graminis virus T1-A,Partitiviridae
+Galinsoga mosaic virus,Tombusviridae
+Galleria mellonella densovirus,Parvoviridae
+Galleria mellonella MNPV,Baculoviridae
+Gallid herpesvirus 1,Herpesviridae
+Gallid herpesvirus 2,Herpesviridae
+Gallid herpesvirus 3,Herpesviridae
+Gamboa virus,Bunyaviridae
+Gan Gan virus,Bunyaviridae
+Garba virus,Rhabdoviridae
+Gardner-Arnstein feline sarcoma virus,Retroviridae
+Garland chrysanthemum temperate virus,Partitiviridae
+Garlic common latent virus,Carlavirus
+Garlic mosaic virus,Carlavirus
+Garlic yellow streak vims,Potyviridae
+Gastropacha quercifolia NPV,Baculoviridae
+Gentiana virus,Carlavirus
+Geochelone carbonaria herpesvirus,Herpesviridae
+Geochelone chilensis herpesvirus,Herpesviridae
+Geotrupes sylvaticus entomopoxvirus,Poxviridae
+Gerbera symptomless virus,Rhabdoviridae
+Germiston virus,Bunyaviridae
+Getah virus,Togaviridae
+Giardia lamblia virus,Totiviridae
+Gibbon ape leukemia virus,Retroviridae
+Ginger chlorotic fleckvirus,Sobemovirus
+Glena bisulca GV,Baculoviridae
+Gloriosa stripe mosaic virus,Potyviridae
+Glycine mosaic virus,Comoviridae
+Glycine mottle virus,Tombusviridae
+Glypta fumiferanae virus,Polydnaviridae
+Glyptapanteles flavicoxis virus,Polydnaviridae
+Glyptapanteles indiensis virus,Polydnaviridae
+Glyptapanteles liparidis virus,Polydnaviridae
+Glypta sp. virus,Polydnaviridae
+Goat herpesvirus,Herpesviridae
+Goatpox virus,Poxviridae
+Goeldichironomus holoprasimus entomopoxvirus,Poxviridae
+Golden shiner reovirus,Reoviridae
+Goldfish virus 1,Iridoviridae
+Goldfish virus 2,Iridoviridae
+Gomoka virus,Reoviridae
+Gomphrena virus,Rhabdoviridae
+Gonometa rufibrunnea cypovirus 3,Reoviridae
+Gonometa virus,Picornaviridae
+Goose adenoviruses 1 to 3,Adenoviridae
+Goose parvovirus,Parvoviridae
+Gordil virus,Bunyaviridae
+Gorilla herpesvirus,Herpesviridae
+Gossas virus,Rhabdoviridae
+Grand Arbaud virus,Bunyaviridae
+Grapevine ajinashika virus,Luteovirus
+Grapevine Algerian latent virus,Tombusviridae
+Grapevine Bulgarian latent virus,Comoviridae
+Grapevine Bulgarian latent virus satellite,Satellites
+Grapevine chrome mosaic virus,Comoviridae
+Grapevine corky bark-associated virus,Closterovirus
+Grapevine fanleaf virus,Comoviridae
+Grapevine fleck virus,Unassigned
+Grapevine leafroll-associated virus 1,Closterovirus
+Grapevine leafroll-associated virus 2,Closterovirus
+Grapevine leafroll-associated virus 3,Closterovirus
+Grapevine leafroll-associated virus 4,Closterovirus
+Grapevine leafroll-associated virus 5,Closterovirus
+Grapevine Tunisian ringspot virus,Comoviridae
+Grapevine virusA,Trichovirus
+Grapevine virus B,Trichovirus
+Grapevine yellow speckle viroid 1,Viroids
+Grapevine yellow speclGrapholitha molesta GV,Baculoviridae
+Grass carp reovirus,Reoviridae
+Grass carp rhabdovirus,Rhabdoviridae
+Gray Lodge virus,Rhabdoviridae
+Gray patch disease agent of green sea turtle,Herpesviridae
+Great Island virus,Reoviridae
+Great Saltee Island virus,Reoviridae
+Great Saltee virus,Bunyaviridae
+Green iguana herpesvirus,Herpesviridae
+Green lizard herpesvirus,Herpesviridae
+Grey kangaroopox virus,Poxviridae
+Grimsey virus,Reoviridae
+Griselda radicana GV,Baculoviridae
+Groundnut crinkle virus,Carlavirus
+Groundnut eyespot virus,Potyviridae
+Groundnut rosette assistor virus,Luteovirus
+Groundnut rosette virus satellite,Satellites
+Groundnut rosette virus,Umbravirus
+Ground squirrel hepatitis B virus,Hepadnaviridae
+GroupA rotaviruses,Reoviridae
+Group B rotaviruses,Reoviridae
+Group C rotaviruses,Reoviridae
+Group D rotaviruses,Reoviridae
+Group E rotaviruses,Reoviridae
+Group F rotaviruses,Reoviridae
+Gruid herpesvirus,Herpesviridae
+GU71U-344 virus,Bunyaviridae
+GU71U-350 virus,Bunyaviridae
+Guajara virus,Bunyaviridae
+Guama virus,Bunyaviridae
+Guanarito virus,Arenaviridae
+Guaratuba virus,Bunyaviridae
+Guaroa virus,Bunyaviridae
+Guar symptomless virus,Potyviridae
+Guinea grass mosaic virus,Potyviridae
+Guinea pig cytomegalovirus,Herpesviridae
+Guinea pig herpesvirus 1,Herpesviridae
+Guinea pig herpesvirus 3,Herpesviridae
+Guinea pig type Concovirus,Retroviridae
+Gumbo Limbo virus,Bunyaviridae
+Gurupi virus,Reoviridae
+Gynura latent virus,Carlavirus
+Gypsy moth virus,Nodaviridae
+H-1 virus,Parvoviridae
+H32580 virus,Bunyaviridae
+Habenaria mosaic virus,Potyviridae
+Hadena basilinea GV,Baculoviridae
+Hadena sordida GV,Baculoviridae
+Hadena sordida NPV,Baculoviridae
+Halisidota argentata NPV,Baculoviridae
+Halisidota caryae NPV,Baculoviridae
+Hamster herpesvirus,Herpesviridae
+Hamster polyomavirus,Papovaviridae
+Hantaan virus,Bunyaviridae
+Hanzalova virus,Flaviviridae
+Harbor seal herpesvirus,Herpesviridae
+Hard clam reovirus,Reoviridae
+Hardy-Zuckerman feline sarcoma virus,Retroviridae
+Hare fibroma virus,Poxviridae
+Harrisina brillians GV,Baculoviridae
+Hartebeest herpesvirus,Herpesviridae
+Hart Park virus,Rhabdoviridae
+Harvey murine sarcoma virus,Retroviridae
+Hazara virus,Bunyaviridae
+HB virus,Parvoviridae
+Heleniurn virus S,Carlavirus
+Heleniurn virus Y,Potyviridae
+Helicoverpa armisgera GV,Baculoviridae
+Helicoverpa arrnigera stunt virus,Tetraviridae
+Helicoverpa arrnisgera NPV,Baculoviridae
+Helicoverpa assulta NPV,Baculoviridae
+Helicoverpa obtectus NPV,Baculoviridae
+Helicoverpa paradoxa NPV,Baculoviridae
+Helicoverpa peltigera NPV,Baculoviridae
+Helicoverpa phloxiphaga NPV,Baculoviridae
+Helicoverpa punctigera GV,Baculoviridae
+Helicoverpa punctigera NPV,Baculoviridae
+Helicoverpa rubrescens NPV,Baculoviridae
+Helicoverpa subflexa NPV,Baculoviridae
+Helicoverpa virescens NPV,Baculoviridae
+Helicoverpa zea GV,Baculoviridae
+Helicoverpa zea SNPV,Baculoviridae
+Heliothis armigera cypovirus 5,Reoviridae
+Heliothis arrnigera cypovirus 11,Reoviridae
+Heliothis arrnigera cypovirus 8,Reoviridae
+Heliothis zea cypovirus 11,Reoviridae
+Heliothis zea virus 1,Unassigned
+Helleborus mosaic virus,Carlavirus
+Helminthosporium victoriae virus 145S,Partitiviridae
+Helminthosporium victoriae virus 1,Unassigned
+Helminthosporiurn maydis virus,Unassigned
+Hemerobius stigma NPV,Baculoviridae
+Hemichroa crocea NPV,Baculoviridae
+Hemileuca eglanterina GV,Baculoviridae
+Hemileuca eglanterina NPV,Baculoviridae
+Hemileuca maia NPV,Baculoviridae
+Hemileuca oliviae GV,Baculoviridae
+Hemileuca oliviae NPV,Baculoviridae
+Hemileuca tricolor NPV,Baculoviridae
+Henbane mosaic virus,Potyviridae
+Hepatitis A virus,Picornaviridae
+Hepatitis B virus,Hepadnaviridae
+Hepatitis C virus,Flaviviridae
+Hepatitis delta virus,Deltavirus
+Hepatitis E virus,Caliciviridae
+Hepatopancreatic parvo-like virus of shrimps,Parvoviridae
+Heracleum latent virus,Trichovirus
+Heracleum virus 6,Closterovirus
+Heron hepatitis B virus,Hepadnaviridae
+Herpes ateles 2,Herpesviridae
+Herpes simiae virus,Herpesviridae
+Herpes simplex virus 1,Herpesviridae
+Herpes simplex virus 2,Herpesviridae
+Herpesvirus aotus 1,Herpesviridae
+Herpesvirus aotus 3,Herpesviridae
+Herpesvirus ateles strain 73,Herpesviridae
+Herpes virus B,Herpesviridae
+Herpesvirus cuniculi,Herpesviridae
+Herpesvirus cyclopsis,Herpesviridae
+Herpesvirus M,Herpesviridae
+Herpesvirus papio,Herpesviridae
+Herpesvirus platyrrhinae type,Herpesviridae
+Herpesvirus pottos,Herpesviridae
+Herpesvirus saimiri 2,Herpesviridae
+Herpesvirus salmonis,Herpesviridae
+Herpesvirus sanguinus,Herpesviridae
+Herpesvirus scophthalmus,Herpesviridae
+Herpesvirus sylvilagus,Herpesviridae
+Herpesvirus tarnarinus,Herpesviridae
+Herpesvirus T,Herpesviridae
+Hesperumia sulphuraria NPV,Baculoviridae
+Hibiscus chlorotic ringspot virus,Tombusviridae
+Hibiscus latent ringspot virus,Comoviridae
+Highlands J virus,Togaviridae
+Hippeastrum latent virus,Carlavirus
+Hippeastrum mosaic virus,Potyviridae
+Hippotion eson NPV,Baculoviridae
+Hirame rhabdovirus,Rhabdoviridae
+Hog cholera virus,Flaviviridae
+HoJo virus,Bunyaviridae
+Holcus lanatus yellowing virus,Rhabdoviridae
+Holcus streak virus,Potyviridae
+Homona coffearia GV,Baculoviridae
+Homona magnanima GV,Baculoviridae
+Homona magnanima NPV,Baculoviridae
+Honeysuckle latent virus,Carlavirus
+Honeysuckle yellow vein mosaic virus,Geminiviridae
+Hop latent viroid,Viroids
+hop latent virus,Carlavirus
+Hoplodrina ambigua NPV,Baculoviridae
+Hop mosaic virus,Carlavirus
+Hop stunt viroid,Viroids
+Hop trefoil cryptic virus 1,Partitiviridae
+Hop trefoil cryptic virus 2,Partitiviridae
+Hop trefoil cryptic virus 3,Partitiviridae
+Hordeum mosaic virus,Potyviridae
+Horsegram yellow mosaic virus,Geminiviridae
+Horseradish latent virus,Caulimovirus
+Hsiung Kaplow herpesvirus,Herpesviridae
+Huacho virus,Reoviridae
+Hughes virus,Bunyaviridae
+Human adenoviruses 1 to 47,Adenoviridae
+Human astrovirus 1,Astroviridae
+Human astrovirus 2,Astroviridae
+Human astrovirus 3,Astroviridae
+Human astrovirus 4,Astroviridae
+Human astrovirus 5,Astroviridae
+Human calicivirus,Caliciviridae
+Human caliciviruses,Caliciviridae
+Human coronavirus 229E,Coronaviridae
+Human coronavirus OC43,Coronaviridae
+Human coxsackievirusA 1 to 22,Picornaviridae
+Human coxsackievirus A 24,Picornaviridae
+Human coxsackievirus B 1 to 6,Picornaviridae
+Human cytomegalovirus,Herpesviridae
+Human echovirus 11 to 27,Picornaviridae
+Human echovirus 1 to 7,Picornaviridae
+Human echovirus 29 to 33,Picornaviridae
+Human echovirus 9,Picornaviridae
+Human enterovirus 68 to 71,Picornaviridae
+Human foamy virus,Retroviridae
+Human herpesvirus 1,Herpesviridae
+Human herpesvirus 2,Herpesviridae
+Human herpesvirus 3,Herpesviridae
+Human herpesvirus 4,Nerpesviridae
+Human herpesvirus 5,Herpesviridae
+Human herpesvirus 6,Herpesviridae
+Human herpesvirus 7,Herpesviridae
+Human immunodeficiency virus 1,Retroviridae
+Human immunodeficiency virus 2,Retroviridae
+Human papillomavirus 11,Papovaviridae
+Human papillomavirus 16,Papovaviridae
+Humanpapillomavirus 18,Papovaviridae
+Human papillomavirus 31,Papovaviridae
+Human papillomavirus 33,Papovaviridae
+Human papillomavirus 5,Papovaviridae
+Human papillomavirus 6b,Papovaviridae
+Human papillomavirus 8,Papovaviridae
+Human papillomavirus la,Papovaviridae
+Human parainfluenza virus 1,Paramyxoviridae
+Human parainfluenza virus 2,Paramyxoviridae
+Human parainfluenza virus 3,Paramyxoviridae
+Human parainfluenza virus 4a,Paramyxoviridae
+Human parainfluenza virus 4b,Paramyxoviridae
+Human poliovirus 1,Picornaviridae
+Human poliovirus 2,Picornaviridae
+Human poliovirus 3,Picornaviridae
+Human respiratory syncytial virus,Paramyxoviridae
+Human rhinovirus 1A,Picornaviridae
+Human rhinovirus 1 to 100,Picornaviridae
+Human spumavirus,Retroviridae
+Human T-lymphotropic virus 1,Retroviridae
+Human T-lymphotropic virus 2,Retroviridae
+Humpty Doo virus,Rhabdoviridae
+Humulus japonicus virus,Bromoviridae
+Hungarian datura innoxia virus,Potyviridae
+HV-114 virus,Bunyaviridae
+Hyacinth mosaic virus,Potyviridae
+Hyalophora cecropia NPV,Baculoviridae
+Hyalophora cecropia virus,Tetraviridae
+Hydrangea latent virus,Carlavirus
+Hydrangea mosaic virus,Bromoviridae
+Hydrangea ringspot virus,Potexvirus
+Hydra viridis Chlorella virus 1,Phycodnaviridae
+Hydra viridis Chlorella virus 2,Phycodnaviridae
+Hydra viridis Chlorella virus 3,Phycodnaviridae
+Hydria prunivora GV,Baculoviridae
+Hydriomena irata NPV,Baculoviridae
+Hydriomena nubilofasciata NPV,Baculoviridae
+Hyles euphorbiae NPV,Baculoviridae
+Hyles gallii NPV,Baculoviridae
+Hylesia nigricans NPV,Baculoviridae
+Hyles lineata NPV,Baculoviridae
+Hyloicus pinastri cypovirus 2,Reoviridae
+Hyloicus pinastri NPV,Baculoviridae
+Hyperetis amicaria NPV,Baculoviridae
+Hyphantria cunea GV,Baculoviridae
+Hyphantria cunea NPV,Baculoviridae
+Hyphorma minax NPV,Baculoviridae
+Hypochoeris mosaic virus,Furovirus
+Hypocrita jacobeae NPV,Baculoviridae
+Hypocrita jacobeae virus,Tetraviridae
+Hypomicrogaster canadensis virus,Polydnaviridae
+Hypomicrogaster ectdytolophae virus,Polydnaviridae
+Hyposoter annulipes virus,Polydnaviridae
+Hyposoter exiguae virus,Polydnaviridae
+Hyposoter fugitivus virus,Polydnaviridae
+Hyposoter lymantriae virus,Polydnaviridae
+Hyposoter pilosulus virus,Polydnaviridae
+Hyposoter rivalis virus,Polydnaviridae
+hypovirulence-associated virus,Hypoviridae
+Hypr virus,Flaviviridae
+Iaco virus,Bunyaviridae
+Icoaraci virus,Bunyaviridae
+Ictalurid herpesvirus,Herpesviridae
+Ieri virus,Reoviridae
+Ife virus,Reoviridae
+Iguanid herpesvirus 1,Herpesviridae
+Ilesha virus,Bunyaviridae
+Ilheus virus,Flaviviridae
+Ilragoides fasciata NPV,Baculoviridae
+Impatiens latent virus,Carlavirus
+Impatiens necrotic spot virus,Bunyaviridae
+Inachis io cypovirus 2,Reoviridae
+Inachis io NPV,Baculoviridae
+Inclusion body rhinitis virus,Herpesviridae
+Indian cassava mosaic virus,Geminiviridae
+Indian cobra herpesvirus,Herpesviridae
+Indian pepper mottle virus,Potyviridae
+Indonesian soybean dwarf virus,Luteovirus
+Infectious bovine rhinotracheitis virus,Herpesviridae
+Infectious bursal disease virus,Birnaviridae
+Infectious hematopoietic necrosis virus,Rhabdoviridae
+Infectious laryngotracheitis virus,Herpesviridae
+Infectious pancreatic necrosis virus,Birnavirzdae
+InfluenzaA virus (A/PR/8/34(H1N1)),Orthomyxoviridae
+Influenza B virus (B/Lee/40),Orthomyxoviridae
+Influenza C virus (C/California/78),Orthomyxovirzdae
+Ingwavuma virus,Bunyaviridae
+Inini virus,Bunyaviridae
+Inkoo virus,Bunyaviridae
+Inner Farne virus,Reoviridae
+Insect iridescent virus 10,Iridoviridae
+Insect iridescent virus 1,Iridoviridae
+Insect iridescent virus 2,Iridoviridae
+Insect iridescent virus 6,Iridoviridae
+Insect iridescent virus 7,Iridoviridae
+Insect iridescent virus 8,Iridoviridae
+Insect iridescent virus 9,Iridoviridae
+Insect iridescent viruses 11 to 15,Iridoviridae
+Insect iridescent viruses 16 to 32,Iridoviridae
+Insect iridescent viruses 3 to 5,Iridoviridae
+Ippy virus,Arenaviridae
+Iridescent virus type 3,Iridoviridae
+Iris fulva mosaic virus,Potyviridae
+Iris germanica leaf stripe virus,Rhabdoviridae
+Iris mild mosaic virus,Potyviridae
+Iris severe mosaic virus,Potyviridae
+Irituia virus,Reoviridae
+Isachne mosaic virus,Potyviridae
+Isfahan virus,Rhabdoviridae
+Israel turkey meningoencephalitis virus,Flaviviridae
+Issyk-Kul virus,Bunyaviridae
+Itaituba virus,Bunyaviridae
+Itaporanga virus,Bunyaviridae
+Itaqui virus,Bunyaviridae
+Itimirirn virus,Bunyaviridae
+Itupiranga virus,Reoviridae
+Ivela auripes NPV,Baculoviridae
+Ivela ochropoda NPV,Baculoviridae
+Ivy vein clearing virus,Rhabdoviridae
+Jaagsiekte virus,Retroviridae
+Jacareacanga virus,Reoviridae
+Jamanxi virus,Reoviridae
+Jamestown Canyon virus,Bunyaviridae
+Jankowskia athleta NPV,Baculoviridae
+Japanaut virus,Reoviridae
+Japanese encephalitis virus,Flaviviridae
+Jari virus,Reoviridae
+Jatropha mosaic virus,Geminiviridae
+JC virus,Papovaviridae
+Joa virus,Bunyaviridae
+Johnsongrass mosaic virus,Potyviridae
+Joinjakaka virus,Rhabdoviridae
+jonquil mild mosaic virus,Potyviridae
+Juan Diaz virus,Bunyaviridae
+Jugra virus,Flaviviridae
+Juncopox virus,Poxviridae
+Junin virus,Arenaviridae
+Junonia coenia densovirus,Parvoviridae
+Junonia coenia GV,Baculoviridae
+Junonia coenia NPV,Baculoviridae
+Jurona virus,Rhabdoviridae
+Jutiapa virus,Flaviviridae
+K27 virus,Bunyaviridae
+Kachemak Bay virus,Bunyaviridae
+Kadarn virus,Flaviviridae
+Kaeng Khoi virus,Bunyaviridae
+Kaikalur virus,Bunyaviridae
+Kairi virus,Bunyaviridae
+Kaisodi virus,Bunyaviridae
+Kala Iris virus,Reoviridae
+Kalanchoe latent virus,Carlavirus
+Kalanchoe top-spotting virus,Badnavirus
+Kamese virus,Rhabdoviridae
+Kannamangalam virus,Rhabdoviridae
+Kao Shuan virus,Bunyaviridae
+Karimabad virus,Bunyaviridae
+Karnmavanpettai virus,Reoviridae
+Karshi virus,Flaviviridae
+Kasba virus,Reoviridae
+Kasokero virus,Bunyaviridae
+Kedougou virus,Flaviviridae
+Kemerovo virus,Reoviridae
+Kenai virus,Reoviridae
+Kennedya virus Y,Potyviridae
+Kennedya yellow mosaic virus,Tymovirus
+Kern Canyon Yirus,Rhabdoviridae
+Ketapang virus,Bunyaviridae
+Keterah virus,Bunyaviridae
+Keuraliba virus,Rhabdoviridae
+Keystone virus,Bunyaviridae
+Kharagysh virus,Reoviridae
+Khasan virus,Bunyaviridae
+Kilham rat virus,Parvoviridae
+Kimberley virus,Rhabdoviridae
+Kindia virus,Reoviridae
+Kinkajou herpesvirus,Herpesviridae
+Kirsten murine sarcoma yirus,Retroviridae
+Kismayo virus,Bunyaviridae
+Klamath virus,Rhabdoviridae
+Kokobera virus,Flaviviridae
+Kolongo virus,Rhabdoviridae
+konjac mosaic virus,Potyviridae
+Koolpinyah virus,Rhabdoviridae
+Koongol virus,Bunyaviridae
+Kotonkan virus,Rhabdoviridae
+Koutango virus,Flaviviridae
+Kowanyama virus,Bunyaviridae
+Kumlinge virus,Flaviviridae
+Kunjin virus,Flaviviridae
+K virus,Papovaviridae
+Kwatta virus,Rhabdoviridae
+Kyasanur forest disease virus,Flaviviridae
+Kyuri green mottle mosaic virus,Tobamoviridae
+Kyzylagach virus,Togaviridae
+Lacanobia oleracea cypovirus 2,Reoviridae
+Lacanobia oleracea GV,Baculoviridae
+Lacanobia oleracea NPV,Baculoviridae
+Lacertid herpesvirus,Herpesviridae
+La Crosse virus,Bunyaviridae
+Lactate dehydrogenase-elevating virus,Arterivirus
+Lactobacillus phage 222a,Myoviridae
+Lactobacillus phage 223,Siphoviridae
+Lactobacillus phage fFSW,Siphoviridae
+Lactobacillus phage fri,Myoviridae
+Lactobacillus phage hv,Myoviridae
+Lactobacillus phage hw,Myoviridae
+Lactobacillus phage lb6,Siphoviridae
+Lactobacillus phage PL-1,Siphoviridae
+Lactobacillus phage y5,Siphoviridae
+Lactococcus phage 1358,Siphoviridae
+Lactococcus phage 1483,Siphoviridae
+Lactococcus phage 936,Siphoviridae
+Lactococcus phage 949,Siphoviridae
+Lactococcus phage BK5-T,Siphoviridae
+Lactococcus phage c2,Siphoviridae
+Lactococcus phage KSY1,Podoviridae
+Lactococcus phage P107,Siphoviridae
+Lactococcus phage P335,Siphoviridae
+Lactococcus phage PO34,Podoviridae
+Lactococcus phage PO87,Siphoviridae
+Laelia red leafspot virus,Rhabdoviridae
+LaFrance isometric virus,Unassigned
+Lagos bat virus,Rhabdoviridae
+La Joya virus,Rhabdoviridae
+Lake Clarendon virus,Reoviridae
+Lake Victoria cormorant herpesvirus,Herpesviridae
+Lambdina fiscellaria GV,Baculoviridae
+Lambdina fiscellaria NPV,Baculoviridae
+Lambdoid phage 0S0,Siphoviridae
+Lambdoid phage HK022,Siphoviridae
+Lambdoid phage HK97,Siphoviridae
+Lambdoid phage PA-2,Siphoviridae
+Lambdoid phage PD328,Siphoviridae
+Lamium mild mosaic virus,Comoviridae
+Landjia virus,Rhabdoviridae
+Landlocked salmon reovirus,Reoviridae
+Langat virus,Ftaviviridae
+Langur virus,Retroviridae
+Lanjan virus,Bunyaviridae
+Laothoe populi NPV,Baculoviridae
+La-Piedad-Michoacan-Mexico virus,Paramyxoviridae
+Lapine parvovirus,Parvoviridae
+Lasiocampa quercus cypovirus 6,Reoviridae
+Lasiocampa quercus NPV,Baculoviridae
+Lasiocampa trifolii NPV,Baculoviridae
+Las Maloyas virus,Bunyaviridae
+Lassa virus,Arenaviridae
+Lathronympha phaseoli GV,Baculoviridae
+Lato river virus,Tombusviridae
+Launea arborescens stunt virus,Rhabdoviridae
+lbaraki virus,Reoviridae
+Leanyer virus,Bunyaviridae
+Lebeda nobilis NPV,Baculoviridae
+Lebombo virus,Reoviridae
+Lechriolepis basirufa NPV,Baculoviridae
+Le Dantec virus,Rhabdoviridae
+Lednice virus,Bunyaviridae
+Leek yellow stripe virus,Potyviridae
+Lee virus,Bunyaviridae
+Legume yellows virus,Luteovirus
+Leishmania RNA virus 1-10,Totiviridae
+Leishmania RNA virus 1-11,Totiviridae
+Leishmania RNA virus 1-1,Totiviridae
+Leishmania RNA virus 1-2,Totiviridae
+Leishmania RNA virus 1-3,Totivitidae
+Leishmania RNA virus 1-4,Totivitidae
+Leishmania RNA virus 1-5,Totiviridae
+Leishmania RNA virus 1-6,Totivitidae
+Leishmania RNA virus 1-7,Totivitidae
+Leishmania RNA virus 1-8,Totiviridae
+Leishmania RNA virus 1-9,Totivitidae
+Leishmania RNA virus 2-1,Totiviridae
+Lemon scented thyme leaf chlorosis virus,Rhabdoviridae
+Lentinus edodes virus,Unassigned
+Leporid herpesvirus 1,Herpesviridae
+Leporid herpesvirus 2,Herpesviridae
+Leshmania RNA virus 1-12,Totiviridae
+Lettuce infectious yellows virus,Closterovirus
+Lettuce mosaic virus,Potyviridae
+Lettuce necrotic yellows virus,R1zabdoviridae
+Lettuce speckles mottle virus,Umbravirus
+Leucoma candida NPV,Baculoviridae
+Leucoma salicis NPV,Baculoviridae
+Leuconostoc phage pro2,Siphoviridae
+Leucorrhinia dubia densovirus,Parvoviridae
+Lilac chlorotic leafspot virus,Capillovirus
+Lilac mottle virus,Carlavirus
+Lilac ring mottle virus,Bromoviridae
+Lilac ringspot vinls,Carlavirus
+Lily mild mottle virus,Potyviridae
+Lily mottle virus,Potyviridae
+Lily symptomless virus,Carlavirus
+Lily virus X,Potexvirus
+Limabean golden mosaic virus,Geminiviridae
+Lipovnik virus,Reoviridae
+Lisianthus necrosis virus,Necrovirus
+Lissonota sp. virus,Polydnaviridae
+Listena phage H387,Siphoviridae
+Listeria phage 2389,Siphoviridae
+Listeria phage 2671,Siphoviridae
+Listeria phage 2685,Siphoviridae
+Listeria phage 4211,Myoviridae
+Liverpool vervet monkey virus,Herpesviridae
+Llano Seco virus,Reoviridae
+Lobesia botrana GV,Baculoviridae
+Locusta migratona entomopoxvirus,Poxviridae
+Lokem virus,Bunyaviridae
+Lolium ryegrass virus,Rhabdoviridae
+Lone Star virus,Bunyaviridae
+Lophopteryx camelina NPV,Baculoviridae
+Lorisine herpesvirus 1,Herpesviridae
+Lotus stem necrosis,Rhabdoviridae
+Louping ill virus,Flauiviridae
+Loxostege sticticalis GV,Baculoviridae
+Loxostege sticticalis NPV,Baculoviridae
+LucemeAustralian latent virus,Comouiridae
+Luceme transient streak virus satellite,Satellites
+LucerneAustralian symptomless virus,Comoviridae
+Lucerne enation virus,Rhabdoviridae
+Lucerne transient streak virus,Sobemovirus
+Lucke frog herpesvirus,Herpesviridae
+Luehdorfia japonica NPV,Baculoviridae
+Lukuni virus,Bunyaviridae
+Lumpy skin disease virus,Poxviridae
+Lum virus,Parvoviridae
+Lundy virus,Reoviridae
+Lupin leaf curl virus,Geminiviridae
+Lupin yellow vein virus,Rhabdoviridae
+Lvrnantria ninayi NPV,Baculoviridae
+Lychnis virus,Hordeivirus
+Potexvirus lychnis ringspot virus,Hordeivirus
+Lymantria dispar cypovirus 11,Reoviridae
+Lymantria dispar MNPV,Baculoviridae
+Lymantria dispar NPV,Baculoviridae
+Lymantria dissoluta NPV,Baculoviridae
+Lymantria dubia densovirus,Parvoviridae
+Lymantria incerta NPV,Baculoviridae
+Lymantria mathura NPV,Baculoviridae
+Lymantria monacha NPV,Baculoviridae
+Lymantria ninayi virus,Tetraviridae
+Lymantria obfuscata NPV,Baculoviridae
+Lymantria violaswinhol NPV,Baculoviridae
+Lymantria xylina NPV,Baculoviridae
+Lymphocystis disease virus,Iridoviridae
+Lymphocytic choriomeningitis virus,Arenaviridae
+Lyrnantria dispar cypovirus 1,Reoviridae
+Lyrnantria fumida NPV,Baculoviridae
+Machupo virus,Arenaviridae
+Maclura mosaic virus,Potyviridae
+Macroglossum bombylans GV,Baculoviridae
+Macropodid herpesvirus 1,Herpesviridae
+Macropodid herpesvirus 2,Herpesviridae
+Macrothylacia rubi NPV,Baculoviridae
+Macrotyloma mosaic virus,Geminiviridae
+Madrid virus,Bunyaviridae
+Maguari virus,Bunyaviridae
+Mahasena miniscula NPV,Baculoviridae
+Mahogany Hammock virus,Bunyaviridae
+Main Drain virus,Bunyaviridae
+Maize chlorotic dwarf virus,Sequiviridae
+Maize chlorotic mottle virus,Machlomovirus
+Maize dwarf mosaic virus,Potyviridae
+Maize mosaic virus,Rhabdoviridae
+Maize rayado fino virus,Marafivirus
+Maize rough dwarf virus,Reoviridae
+Maize sterile stunt virus,Rhabdoviridae
+Maize streak virus,Geminiviridae
+Maize stripe virus,Tenuivirus
+Maize white line mosaic virus satellite,Satellites
+Maize whiteline mosaic virus,Unassigned
+Malacosoma alpicola NPV,Baculoviridae
+Malacosoma americanum NPV,Baculoviridae
+Malacosoma californicum NPV,Baculoviridae
+Malacosoma disstria cypovirus 8,Reoviridae
+Malacosoma neustria cypovirus 2,Reoviridae
+Malacosoma neustria cypovirus 3,Reoviridae
+Malacsoma constrictum NPV,Baculoviridae
+Malacsoma disstria NPV,Baculoviridae
+Malacsoma fragile NPV,Baculoviridae
+Malacsoma lutescens NPV,Baculoviridae
+Malacsoma neustria NPV,Baculoviridae
+Malacsoma pluviale GV,Baculoviridae
+Malacsoma pluviale NPV,Baculoviridae
+Malakal virus,Rhabdoviridae
+Malignant catarrhal fever virus of European cattle,Herpesviridae
+Malpais Spring virus,Rhabdoviridae
+Malvaceous chlorosis virus,Geminiviridae
+Malva silvestris virus,Rhabdoviridae
+Malva veinal necrosis virus,Potexvirus
+Malva vein clearing virus,Potyviridae
+Malva yellows virus,Luteovinus
+Mamestra brassicae cypovirus 11,Reoviridae
+Mamestra brassicae cypovirus 12,Reoviridae
+Mamestra brassicae cypovirus 2,Reoviridae
+Mamestra brassicae cypovirus 7,Reoviridae
+Mamestra brassicae GV,Baculoviridae
+Mamestra brassicae MNPV,Baculoviridae
+Mamestra configurata GV,Baculoviridae
+Mamestra configurata NPV,Baculoviridae
+Mamestra suasa NPV,Baculoviridae
+Manawatu virus,Nodaviridae
+Manawa virus,Bunyaviridae
+Manduca quinquemaculata GV,Baculoviridae
+Manduca sexta GV,Baculoviridae
+Manduca sexta NPV,Baculoviridae
+Manitoba virus,Rhabdoviridae
+Manzanilla virus,Bunyaviridae
+Mapputta virus,Bunyaviridae
+Maprik virus,Bunyaviridae
+Map turtle herpesvirus,Herpesviridae
+Maraba virus,Rhabdoviridae
+Maracuja mosaic virus,Tobamoviridae
+Marburg virus,Filoviridae
+Marco virus,Rhabdoviridae
+Marek's disease herpesvirus 1,Herpesviridae
+Marek's disease herpesvirus 2,Herpesviridae
+Marigold mottle virus,Potyviridae
+Marituba virus,Bunyaviridae
+Marmodid herpesvirus 1,Herpesviridae
+Marmoset cytomegalovirus,Herpesviridae
+Marmoset herpesvirus,Herpesviridae
+Marmosetpox virus,Poxviridae
+Marrakai virus,Reoviridae
+Mason-Pfizer monkey virus,Retroviridae
+Masou salmon reovirus,Reoviridae
+Matruh virus,Bunyaviridae
+Matucare virus,Reoviridae
+Mayaro virus,Togaviridae
+Mboke virus,Bunyaviridae
+Meaban virus,Flaviviridae
+Measles (Edmonston) virus,Paramyxoviridae
+Medical Lake macaque herpesvirus,Herpesviridae
+Megalopyge opercularis GV,Baculoviridae
+Melanchra persicariae GV,Baculoviridae
+Melandrium yellow fleck virus,Bromoviridae
+Melanolophia imitata NPV,Baculoviridae
+Melanoplus sanguinipes entomopoxvirus,Poxviridae
+Melao virus,Bunyaviridae
+Meleagrid herpesvirus 1,Herpesviridae
+Melilotus latent virus,Rhabdoviridae
+Melilotus mosaic virus,Potyviridae
+Melitaea didyma NPV,Baculoviridae
+Melolontha melolontha entomopoxvirus,Poxviridae
+Melon leaf curl virus,Geminiviridae
+Melon necrotic spot virus,Tombusviridae
+Melon variegation virus,Rhabdoviridae
+Melon vein-banding mosaic virus,Potyviridae
+Mengovirus,Picornaviridae
+Mermet virus,Bunyaviridae
+Merophyas divulsana NPV,Baculoviridae
+Mesonura rufonota NPV,Baculoviridae
+Mibuna temperate virus,Partitiviridae
+Mice minute virus,Parvoviridae
+Mice pneumotropic virus,Papovaviridae
+Michigan alfalfa virus,Luteovirus
+Micrococcus phage N1,Siphoviridae
+Micrococcus phage N5,Siphoviridae
+Microplitis croceipes virus,Polydnaviridae
+Microplitis demolitor virus,Polydnaviridae
+Microtus pennsylvanicus herpesvirus,Herpesviridae
+Middelburg virus,Togaviridae
+Milk vetch dwarf virus,Lukovirus
+Mill Door virus,Reoviridae
+Miller's nodule virus,Poxviridae
+Millet red leaf virus,Luteovirus
+Mimosa bacilliform virus,Badnavirus
+Minatitlan virus,Bunyaviridae
+Mink calicivirus,Caliciviridae
+Mink enteritis virus,Parvoviridae
+Minnal virus,Reoviridae
+Mirabilis mosaic virus,Caulimovirus
+Mirim virus,Bunyaviridae
+Miscanthus streak virus,Geminiviridae
+Mitchell river virus,Reoviridae
+Mobala virus,Arenaviridae
+Modoc virus,Flaviviridae
+Mojui dos Campos virus,Bunyaviridae
+Moju virus,Bunyaviridae
+Mokola virus,Rhabdoviridae
+Mollicutes phage Brl,Myoviridae
+Mollicutes phage C3,Podoviridae
+Mollicutes phage L3,Podoviridae
+Molluscum contagiosum virus,Poxviridae
+Molluscum-likepox virus,Poxviridae
+Moloney murine sarcoma virus,Retroviridae
+Moloney virus,Retroviridae
+Moma champa NPV,Baculoviridae
+Monkeypox virus,Poxviridae
+Mono Lake virus,Reoviridae
+Montana myotis leukoencephalitis virus,Flaviviridae
+Monte Dourado virus,Reoviridae
+Mopeia virus,Arenaviridae
+Moriche virus,Bunyaviridae
+Moroccan pepper virus,Tombusviridae
+Moroccan watermelon mosaic virus,Potyviridae
+Mosqueiro virus,Rhabdoviridae
+Mosquito iridescent virus,Iridoviridae
+Mossuril virus,Rhabdoviridae
+Mount Elgon bat virus,Rhabdoviridae
+Mouse cytomegalovirus 1,Herpesviridae
+Mouse Elberfield virus,Picornaviridae
+Mouse herpesvirus strain 68,Herpesviridae
+Mouse mammary tumor virus,Retroviridae
+Mouse thymic herpesvirus,Herpesviridae
+Movar herpesvirus,Herpesviridae
+M satellites of Ustilago maydis killer virus,Satellites
+Satellites Macaua virus,Bunyaviridae
+Mucambo virus,Togaviridae
+Mudjinbarry virus,Reoviridae
+Muir Springs virus,Rhabdoviridae
+Mulberry latent virus,Carlavirus
+Mulberry ringspot virus,Comoviridae
+Mule deerpox virus,Poxviridae
+Multimammate mouse papillomavirus,Papovaviridae
+Mumps virus,Paramyxoviridae
+Mungbean mosaic virus,Potyviridae
+Mungbean mottle virus,Potyviridae
+Mungbean yellow mosaic virus,Geminiviridae
+Munguba virus,Bunyaviridae
+Murid herpesvirus 2,Herpesviridae
+Murid herpesvirus 3,Herpesviridae
+Murid herpesvirus 4,Herpesviridae
+Murid herpesvirus 5,Herpesviridae
+Murid herpesvirus 6,Herpesviridae
+Murid herpesvirus 7,Herpesviridae
+Murid herpesvirus,Nerpesviridae
+Murine adenovirus 2,Adenoviridae
+Murine hepatitis virus,Coronaviridae
+Murine herpesvirus,Herpesviridae
+Murine leukemia virus,Retroviridae
+Murine parainfluenza virus 1,Paramyxoviridae
+Murine poliovirus,Picornaviridae
+Murine polyomavirus,Papovaviridae
+Murray Valley encephalitis virus,Flaviviridae
+Murre virus,Bunyaviridae
+Murutucu virus,Bunyaviridae
+Mushroom bacilliform virus,Barnaviridae
+Mushroom virus 4,Partitiviridae
+Muskmelon vein necrosis virus,Carlavirus
+Muskmelon yellows virus,Closterovirus
+Mycobacterium phage f17,Podoviridae
+Mycobacterium phage I3,Myoviridae
+Mycobacterium phage lacticola,Siphoviridae
+Mycobacterium phage Leo,Siphoviridae
+Mycobacterium phage R1-Myb,Siphoviridae
+Mycogone perniciosa virus,Totiviridae
+Mykines virus,Reoviridae
+Mynahpox virus,Poxviridae
+Myrobalan latent ringspot virus,Comoviridae
+Myrobalan latent ringspot virus satellite,Satellites
+Myrteta tinagmaria NPV,Baculoviridae
+Myxoma virus,Poxviridae
+Nacoleia diemenalis GV,Baculoviridae
+Nacoleia octosema NPV,Baculoviridae
+Nadata gibbosa NPV,Baculoviridae
+Nairobi sheep disease virus,Bunyaviridae
+Nandina mosaic virus,Potexvirus
+Nandina stem pitting virus,Capillovirus
+Naranjal virus,Flaviviridae
+Narcissus degeneration virus,Potyviridae
+Narcissus latent virus,Potyviridae
+Narcissus late season yellows virus,Potyviridae
+Narcissus mosaic virus,Potexvirus
+Narcissus tip necrosis virus,Tombusviridae
+Narcissus yellow stripe virus,Potyviridae
+Nasoule virus,Rhabdoviridae
+Nasturtium mosaic virus,Potyviridae
+Natada nararia GV,Baculoviridae
+Navarro virus,Rhabdoviridae
+Ndelle virus,Reoviridae
+Ndumu virus,Togaviridae
+Neckar river virus,Tombusviridae
+Negishi virus,Flaviviridae
+Negro coffee mosaic virus,Potexvirus
+Nelson Bay virus,Reoviridae
+Nematocampa filamentaria GV,Baculoviridae
+Nematus olfaciens NPV,Baculoviridae
+Neodiprion abietis NPV,Baculoviridae
+Neodiprion excitans NPV,Baculoviridae
+Neodiprion leconti NPV,Baculoviridae
+Neodiprion nanultus NPV,Baculoviridae
+Neodiprion pratti NPV,Baculoviridae
+Neodiprion sertifer NPV,Baculoviridae
+Neodiprion swainei NPV,Baculoviridae
+Neodiprion taedae NPV,Baculoviridae
+Neodiprion tsugae NPV,Baculoviridae
+Neodiprion virginiana NPV,Baculoviridae
+Neophasia menapia NPV,Baculoviridae
+Neopheosia excurvata NPV,Baculoviridae
+Nephelodes emmedonia GV,Baculoviridae
+Nephelodes emmedonia NPV,Baculoviridae
+Nepuyo virus,Bunyaviridae
+Nepytia freemani NPV,Baculoviridae
+Nepytia phantasmaria NPV,Baculoviridae
+Nerine latent virus,Carlavirus
+Nerine virus,Potyviridae
+Nerine virus X,Potexvirus
+Neudoerfl virus,Flaviviridae
+Newcastle disease virus,Paramyxoviridae
+New Minto virus,Rhabdoviridae
+Newt viruses T6 to T20,Iridoviridae
+Ngaingan virus,Rhabdoviridae
+Ngari virus,Bunyaviridae
+Ngoupe virus,Reoviridae
+Nicotiana glutinosa stunt viroid,Viroids
+Nile crocodilepox virus,Poxviridae
+Nique virus,Bunyaviridae
+Nkolbisson virus,Rhabdoviridae
+Noctua pronuba cypovirus 7,Reoviridae
+Noctua pronuba NPV,Baculoviridae
+Nodamura virus,Nodaviridae
+Nola virus,Bunyaviridae
+North Clett virus,Reoviridae
+North End virus,Reoviridae
+Northern cereal mosaic virus,Rhabdoviridae
+Northern pike herpesvirus,Herpesviridae
+Northway virus,Bunyaviridae
+NorwaLk virus,Caliciviridae
+Nothoscordum mosaic virus,Potyviridae
+Ntaya virus,Flaviviridae
+Nudaurelia capensis b virus,Tetraviridae
+Nudaurelia capensis e virus,Tetraviridae
+Nudaurelia capensis w virus,Tetraviridae
+Nudaurelia cytherea cypovirus 8,Reoviridae
+Nugget virus,Reoviridae
+Nyabira virus,Reoviridae
+Nyamanini virus,Unassigned
+Nyando virus,Bunyaviridae
+Nyctobia lirnitaria NPV,Baculoviridae
+Nymphalis antiopa GV,Baculoviridae
+Nymphalis antiopa NPV,Baculoviridae
+Nymphalis polychloros NPV,Baculoviridae
+Nymphula depunctalis MPV,Baculoviridae
+Oak-Vale virus,Rhabdoviridae
+Oat blue dwarf virus,Marafivirus
+Oat gdden stripe virus,Furovirus
+Oat mosaic virus,Potyviridae
+Oat necrotic mottle virus,Potyviridae
+Oat sterile dwarf virus,Reoviridae
+Oat striate mosaic virus,Rhabdoviridae
+Obodhiang virus,Rhabdoviridae
+Oceanside virus,Bunyaviridae
+Ocinara varians NPV,Baculoviridae
+Ockelbo virus,Togaviridae
+Octopus vulgaris disease virus,Iridoviridae
+Odontoglossurn ringspot virus,Tobamoviridae
+Odrenisrou virus,Bunyaviridae
+Oedaleus senegalensis entomopoxvirus,Poxviridae
+Oita virus,Rhabdoviridae
+Okhotskiy virus,Reoviridae
+Okola virus,Bunyaviridae
+Okra leaf curl virus,Geminiviridae
+Okra mosaic virus,Tymovirus
+Olesicampe benefactor virus,Polydnaviridae
+Olesicampe geniculatae virus,Polydnaviridae
+Olifantsvlei virus,Bunyaviridae
+Olive latent ringspot virus,Comoviridae
+Olive latent virus 1,Sobemovirus
+Olive latent virus 2,Unassigned
+Omo virus,Bunyaviridae
+Omsk hemorrhagic fever virus,Flaviviridae
+Onchorhynchus masou herpesvirus,Herpesviridae
+Onion yellow dwarf virus,Potyviridae
+Ononis yellow mosaic virus,Tymovirus
+O'nyong-nyong virus,Togaviridae
+Operophtera bruceata NPV,Baculoviridae
+Operophtera brumata cypovirus 2,Reoviridae
+Operophtera brumata cypovirus 3,Reoviridae
+Operophtera brumata NPV,Baculoviridae
+Operophtera brurnata entomopoxvirus,Poxviridae
+Opisina arenosella NPV,Baculoviridae
+Opisthograptis luteolata MPV,Baculoviridae
+Oporinia autumnata NPV,Baculoviridae
+Opsiphanes cassina NPV,Baculoviridae
+Oraesia emarginata NPV,Baculoviridae
+Orangutan herpesvirus,Herpesviridae
+Orchid fleck virus,Rhabdoviridae
+Orf virus,Poxviridae
+Orgyia anartoides MPV,Baculoviridae
+Orgyia antiqua NPV,Baculoviridae
+Orgyia australis NPV,Baculoviridae
+Orgyia badia NPV,Baculoviridae
+Orgyia gonostigma NPV,Baculoviridae
+Orgyia leucostigma NPV,Baculoviridae
+Orgyia postica NPV,Baculoviridae
+Orgyia pseudosugata cypovirus 5,Reoviridae
+Orgyia pseudosugata MNPV,Baculoviridae
+Orgyia pseudosugata SNPV,Baculoviridae
+Orgyia turbata NPV,Baculoviridae
+Orgyia vetusta NPV,Baculoviridae
+Oriboca virus,Bunyaviridae
+Oriximina virus,Bunyaviridae
+Ornithogalum mosaic virus,Potyviridae
+Oropouche virus,Bunyaviridae
+Orthosia hibisci NPV,Baculoviridae
+Orthosia incerta NPV,Baculoviridae
+Orungo virus 1 to 4,Reoviridae
+Oryctes rhinoceros virus,Unassigned
+Ossa virus,Bunyaviridae
+Ostrinia nubilalis NPV,Baculoviridae
+Ouango virus,Rhabdoviridae
+Oubi virus,Bunyaviridae
+Ourem virus,Reoviridae
+Ourrnia melon virus,Unassigned
+Ovine adeno-associated virus,Parvoviridae
+Ovine adenoviruses 1 to 6,Adenoviridae
+Ovine astrovirus 1,Astroviridae
+Ovine herpesvirus 1,Herpesviridae
+Ovine herpesvirus 2,Herpesviridae
+Ovine pulrnonary adenocarcinoma virus,Retroviridae
+Owl hepatosplenitis herpesvirus,Herpesviridae
+P360 virus,Bunyaviridae
+P4,Satellites
+Pacheco's disease virus,Herpesviridae
+Pachypasa capensis NPV,Baculoviridae
+Pachypasa otus NPV,Baculoviridae
+Pacific pond turtle herpesvirus,Herpesviridae
+Pacora virus,Bunyaviridae
+Pacui virus,Bunyaviridae
+Pahayokee virus,Bunyaviridae
+Painted turtle herpesvirus,Eerpesviridae
+Paleacrita vernata NPV,Baculoviridae
+Palestina virus,Bunyaviridae
+Palm mosaic virus,Potyviridae
+Palyam virus,Reoviridae
+Panaxia dominula NPV,Baculoviridae
+Pandemis heparana NPV,Baculoviridae
+Pandemis lamprosana NPV,Baculoviridae
+Pangola stunt virus,Leuteoviridae
+Pan herpesvirus,Herpesviridae
+Panicum mosaic virus satellite,Satellites
+Panicum mosaic virus small satellite,Satellites
+Panicum mosaic virus,Sobemovirus
+Panolis flammea NPV,Baculoviridae
+Pantana phyllostachysae NPV,Baculoviridae
+Panthea portlandia NPV,Baculoviridae
+Papaipema purpurifascia GV,Baculoviridae
+Papaya leaf curl virus,Geminiviridae
+Papaya leaf distortion mosaic virus,Potyviridae
+Papaya mosaic virus,Potexvirus
+Papaya ringspot virus,Potyviridae
+Papilio daunis NPV,Baculoviridae
+Papilio demoleus NPV,Baculoviridae
+Papilio machaon cypovirus 2,Reoviridae
+Papilio podalirius NPV,Baculoviridae
+Papilio polyxenes NPV,Baculoviridae
+Papilio xuthus NPV,Baculoviridae
+Papio Epstein-Barr herpesvirus,Herpesviridae
+Paprika mild mottle virus,Tobamoviridae
+Paramecium bursaria Chlorella virus 1,Phycodnaviridae
+Paramecium bursaria Chlorella virusA1,Phycodnaviridae
+Paramecium bursaria Chlorella virusAL2A,Phycodnaviridae
+Paramecium bursaria Chlorella virusAL2C,Phycodnaviridae
+Paramecium bursaria Chlorella virusALlA,Phycodnaviridae
+Paramecium bursaria Chlorella virus B1,Phycodnaviridae
+Paramecium bursaria Chlorella virus BJ2C,Phycodnaviridae
+Paramecium bursaria Chlorella virus CA2A,Phycodnaviridae
+Paramecium bursaria Chlorella virus CA4B,Phycodnaviridae
+Paramecium bursaria Chlorella virus CAlA,Phycodnaviridae
+Paramecium bursaria Chlorella virus CAlD,Phycodnaviridae
+Paramecium bursaria Chlorella virus G1,Phycodnaviridae
+Paramecium bursaria Chlorella virus IL2A,Phycodnaviridae
+Paramecium bursaria Chlorella virus IL2B,Phycodnaviridae
+Paramecium bursaria Chlorella virus IL3A,Phycodnaviridae
+Paramecium bursaria Chlorella virus IL3D,Phycodnaviridae
+Paramecium bursaria Chlorella virus IL5-2sl,Phycodnaviridae
+Paramecium bursaria Chlorella virus M1,Phycodnaviridae
+Paramecium bursaria Chlorella virus MA1E,Phycodnaviridae
+Paramecium bursaria Chlorella virus NC1A,Phycodnaviridae
+Paramecium bursaria Chlorella virus NC1B,Phycodnaviridae
+Paramecium bursaria Chlorella virus NC1C,Phycodnaviridae
+Paramecium bursaria Chlorella virus NC1D,Phycodnaviridae
+Paramecium bursaria Chlorella virus NE8A,Phycodnaviridae
+Paramecium bursaria Chlorella virus NE-8D,Phycodnaviridae
+Paramecium bursaria Chlorella virus NY2A,Phycodnaviridae
+Paramecium bursaria Chlorella virus NY2B,Phycodnaviridae
+Paramecium bursaria Chlorella virus NY2C,Phycodnaviridae
+Paramecium bursaria Chlorella virus NY2F,Phycodnaviridae
+Paramecium bursaria Chlorella virus NYbl,Phycodnaviridae
+Paramecium bursaria Chlorella virus NYs,Phycodnaviridae
+Paramecium bursaria Chlorella virus R1,Phycodnaviridae
+Paramecium bursaria Chlorella virus SClA,Phycodnaviridae
+Paramecium bursaria Chlorella virus SClB,Phycodnaviridae
+Paramecium bursaria Chlorella virus SH6A,Phycodnaviridae
+Paramecium bursaria Chlorella virus XY6E,Phycodnaviridae
+Paramecium bursaria Chlorella virus XZ3A,Phycodnaviridae
+Paramecium bursaria Chlorella virus XZ4A,Phycodnaviridae
+Paramecium bursaria Chlorella virus XZ4C,Phycodnaviridae
+Paramecium bursaria Chlorella virus XZ5C,Phycodnaviridae
+Parameciurn bursaria Chlorella virus CA4A,Phycodnaviridae
+Parana virus,Arenaviridae
+Parapoxvirus of red deer in New Zealand,Poxviridae
+Pararnushir virus,Bunyaviridae
+Parasa bicolor GV,Baculoviridae
+Parasa consocia GV,Baculoviridae
+Parasa corlsocia NPV,Baculoviridae
+Parasa lepida GV,Baculoviridae
+Parasa lepida NPV,Baculoviridae
+Parasa sinica GV,Baculoviridae
+Parasa sinica NPV,Baculoviridae
+Paravaccinia virus,Poxviridae
+Para virus,Bunyaviridae
+Parietaria mottle virus,Bromoviridae
+Parlicum streak virus,Geminiviridae
+Parma wallaby herpesvirus,Herpesviridae
+Parnara guttata NPV,Baculoviridae
+Parnara mathias NPV,Baculoviridae
+Paroo river virus,Reoviridae
+Parrot herpesvirus,Herpesviridae
+Parry Creek virus,Rhabdoviridae
+Parsley virus 5,Potexvirus
+Parsley virus,Rhabdoviridae
+Parsnip mosaic virus,Potyviridae
+Parsnip virus 3,Potexvirus
+Parsnip virus 5,Potexvirus
+Parsnip yellow fleck virusA421,Sequiviridae
+Parsnip yellow fleck virus,Sequiviridae
+Parvo-like virus of crabs,Parvoviridae
+Paspalum striate mosaic virus,Geminiviridae
+Passiflora latent virus,Carlavirus
+Passion fruit mottle virus,Potyviridae
+Passion fruit ringspot virus,Potyviridae
+Passion fruit woodiness virus,Potyviridae
+Passion fruit yellow mosaic virus,Tymovirus
+Pasteurella phage 22,Podoviridae
+Pasteurella phage 32,Siphoviridae
+Pasteurella phageAU,Myoviridae
+Pasteurella phage C-2,Siphoviridae
+Patas monkey herpesvirus pH delta,Herpesviridae
+Pata virus,Reoviridae
+Patchouli mottle virus,Potyviridae
+Pathum Thani virus,Bunyaviridae
+Patois virus,Bunyaviridae
+Peach latent mosaic viroid,Viroids
+Peach rosette mosaic virus,Comoviridae
+Peacockpox virus,Poxviridae
+Pea early-browning virus,Tobravirus
+Pea enation mosaic virus,Enamovirus
+Pea enation mosaic virus satellite,Satellites
+Pea green mottle virus,Comoviridae
+Luteoviruspea mild mosaic virus,Comoviridae
+Pea leafroll virus,Comoviridae
+Pea mosaic virus,Potyviridae
+Pea necrosis virus,Potyviridae
+Peanut chlorotic ring mottle virus,Potyviridae
+Peanut chlorotic streak virus,Caulimovirus
+Peanut clump virus,Furovirus
+Peanut green mottle virus,Potyviridae
+Peanut mild mottle virus,Potyviridae
+Peanut mosaic virus,Potyviridae
+Peanut mottle virus,Potyviridae
+Peanut stripe virus,Potyriridae
+Peanut stunt virus,Bromoviridae
+Peanut stunt virus satellite,Satellites
+Peanut yellow mosaic virus,Tymovirus
+Pear blister canker viroid,Viroids
+Pea seed-borne mosaic virus,Potyviridae
+Pea streak virus,Carlavirus
+Peaton virus,Bunyaviridae
+Pecteilis mosaic virus,Potyviridae
+Pectinophora gossypiella cypovirus 11,Reoviridae
+Pectinophora gossypiella NPV,Baculoviridae
+Pelargonium flower break virus,Tombusviridae
+Pelargonium leaf curl virus,Tombusviridae
+Pelargonium vein clearing virus,Rhabdoviridae
+Pelargonium zonate spot virus,Unassigned
+Penguinpox virus,Poxviridae
+Penicillium brevicompactum virus,Partitiviridae
+Penicillium chrysogenum virus,Partitiviridae
+Penicillium cyaneo-fulvum virus,Partitiviridae
+Penicillium stoloniferum virus F,Partitiviridae
+Penicillium stoloniferum virus S,Partitiviridae
+Pepino latent virus,Carlavirus
+Pepino mosaic virus,Potexvirus
+Pepper huasteco virus,Geminiviridae
+Pepper mild mosaic virus,Potyviridae
+Pepper mild mottle virus,Tobamoviridae
+Pepper mild tigre virus,Geminiviridae
+Pepper mottle virus,Potyviridae
+Pepper ringspot virus,Tobravirus
+Pepper severe mosaic virus,Potyviridae
+Pepper veinal mottle virus,Potyviridae
+Percid herpesvirus 1,Herpesviridae
+Perdicid herpesvirus 1,Herpesviridae
+Peribatoides simpliciaria NPV,Baculoviridae
+Pericallia ricini GV,Baculoviridae
+Pericallia ricini NPV,Baculoviridae
+Periconia circinata virus,Unassigned
+Peridroma saucia GV,Baculoviridae
+Peridroma saucia NPV,Baculoviridae
+Perilla mottle virus,Potyviridae
+Perinet virus,Rhabdoviridae
+Periplanata fuliginosa densovirus,Parvoviridae
+Pero behrensarius NPV,Baculoviridae
+Pero mizon NPV,Baculoviridae
+Persectania ewingii GV,Baculoviridae
+Peru tomato mosaic virus,Potyviridae
+Peste-des-petits-ruminants virus,Paramyxoviridae
+Petevo virus,Reoviridae
+Petunia asteroid mosaic virus,Tombusviridae
+Petunia vein clearing virus,Caulimovirus
+Phalacrocoracid herpesvirus 1,Herpesviridae
+Phalaenopsis chlorotic spot virus,Rhabdoviridae
+Phalera assimilis NPV,Baculoviridae
+Phalera bucephala cypovirus 2,Reoviridae
+Phalera bucephala NPV,Baculoviridae
+Phalera flavescens NPV,Baculoviridae
+Phanerotoma flavitestacea virus,Polydnaviridae
+Phauda flammans NPV,Baculoviridae
+Pheasant adenovirus 1,Adenoviridae
+Phialophora radicicola virus 2-2-A,Partitiviridae
+Phigalia titea NPV,Baculoviridae
+Philosarnia ricini virus,Tetraviridae
+Phlogophera meticulosa cypovirus 3,Reoviridae
+Phlogophora meticulosa cypovirus 8,Reoviridae
+Phlogophora meticulosa NPV,Baculoviridae
+Phnom-Penh bat virus,Flaviviridae
+Phocid herpesvirus 1,Herpesviridae
+Phocine (seal) distemper virus,Paramyxoviridae
+Pholetesor ornigis virus,Polydnaviridae
+Phragmatobia fuliginosa GV,Baculoviridae
+Phryganidia californica NPV,Baculoviridae
+Phthonosema tendinosaria NPV,Baculoviridae
+Phthorimaea operculella GV,Baculoviridae
+Phthorimaea operculella NPV,Baculoviridae
+Physalis mild chlorosis virus,Luteovirus
+Physalis mosaic virus,Tymovirus
+Physalis vein blotch virus,Luteovirus
+Pichinde virus,Arenaviridae
+Picola virus,Reoviridae
+Pieris brassicae granulovirus,Baculoviridae
+Pieris melete GV,Baculoviridae
+Pieris napi GV,Baculoviridae
+Pieris rapae cypovirus 12,Reoviridae
+Pieris rapae cypovirus 2,Reoviridae
+Pieris rapae cypovirus 3,Reoviridae
+Pieris rapae densovirus,Parvoviridae
+Pieris rapae GV,Baculoviridae
+Pieris rapae NPV,Baculoviridae
+Pieris virginiensis GV,Baculoviridae
+Pigeon herpesvirus,Herpesviridae
+Pigeon pea mosaic mottle viroid,Viroids
+Pigeon pea proliferation virus,Rhabdoviridae
+Pigeonpox virus,Poxviridae
+Pike fry rhabdovirus,Rhabdoviridae
+Pikonema dimmockii NPV,Baculoviridae
+Pineapple chlorotic leaf streak virus,Rhabdoviridae
+Pisum virus,Rhabdoviridae
+Pittosporum vein yellowingvirus,Rhabdoviridae
+Pixuna virus,Togaviridae
+Plantago mottle virus,Tymovirus
+Plantago severe mottle virus,Potexvirus
+Plantago virus 4,Caulimovirus
+Plantain mottle virus,Rhabdoviridae
+Plantain virus 6,Tombusviridae
+Plantain virus 7,Potyviridae
+Plantain virus 8,Carlavirus
+Plantain virus X,Potexvirus
+Plathypena scabra GV,Baculoviridae
+Plathypena scabra NPV,Baculoviridae
+Platynota idaesalis NPV,Baculoviridae
+Playas virus,Bunyaviridae
+Pleioblastus mosaic virus,Potyviridae
+Pleuronectid herpesvirus,Nerpesviridae
+Plum pox virus,Potyviridae
+Plusia argentifera NPV,Baculoviridae
+Plusia balluca NPV,Baculoviridae
+Plusia circumflexa GV,Baculoviridae
+Plusia signata NPV,Baculoviridae
+Plutella xylostella GV,Baculoviridae
+Plutella xylostella NPV,Baculoviridae
+Pmeapple mealybug wilt-associated virus,Closterovirus
+Pneumonia virus of mice,Paramyxoviridae
+Poa semilatent virus,Hordeivirus
+poinsettia cryptic virus,Partitiviridae
+Poinsettia mosaic virus,Tymovirus
+Pokeweed mosaic virus,Potyviridae
+Polygonia c-album NPV,Baculoviridae
+Polygonia satyrus NPV,Baculoviridae
+Pongine herpesvirus 1,Herpesviridae
+Pongine herpesvirus 2,Herpesviridae
+Pongine herpesvirus 3,Herpesviridae
+Pongola virus,Bunyaviridae
+Ponteves virus,Bunyaviridae
+Pontia daplidice GV,Baculoviridae
+Poovoot virus,Reoviridae
+Poplar mosaic virus,Carlavirus
+Populus virus,Potyviridae
+Porcine adenoviruses 1 to 6,Adenoviridae
+Porcine astrovirus 1,Astroviridae
+Porcine circovirus,Circoviridae
+Porcine enteric calicivirus,Caliciviridae
+Porcine enterovirus 1 to 11,Picornaviridae
+Porcine epidemic diarrhea virus,Coronaviridae
+Porcine hemagglutinating encephalomyelitis virus,Coronaviridae
+Porcine parvovirus,Parvoviridae
+Porcine respiratory and reproductive syndrome,Arterivirus
+Porcine rubulavirus,Paramyxoviridae
+Porcine transmissible gastroenteritis virus,Coronaviridae
+Porcine type C oncovirus,Retroviridae
+Porpoise distemper virus,Paramyxoviridae
+Porthesia scintillans NPV,Baculoviridae
+Porton virus,Rhabdoviridae
+Potato aucuba mosaic virus,Potexvirus
+Potato black ringspot virus,Comoviridae
+Potato leafroll virus,Luteovirus
+Potato mop-top virus,Furovirus
+Potato spindle tuber viroid,Viroids
+Potato virusA,Potyviridae
+Potato virus M,Carlavirus
+Potato virus S,Carlavirus
+Potato virus T,Trichovirus
+Potato virus U,Comoviridae
+Potato virus V,Potyviridae
+Potato virus X,Potexvirus
+potato virus Y,Potyviridae
+Potato yellow dwarf virus,Rhabdoviridae
+Potato yellow mosaic virus,Geminiviridae
+Potosi virus,Bunyaviridae
+Powassan virus,Flaviviridae
+Precarious Point virus,Bunyaviridae
+Pretoria virus,Bunyaviridae
+Primate calicivirus,Caliciviridae
+Primula mosaic virus,Potyviridae
+Primula mottle virus,Potyviridae
+Pristophora erichsonii NPV,Baculoviridae
+Pristophora geniculata NPV,Baculoviridae
+Prodenia androgea GV,Baculoviridae
+Prodenia litosia NPV,Baculoviridae
+Prodenia praefica NPV,Baculoviridae
+Prodenia terricola NPV,Baculoviridae
+Prospect Hill virus,Bunyaviridae
+Protapanteles paleacritae virus,Polydnaviridae
+Protoboarmia porcelaria NPV,Baculoviridae
+Prune dwarf virus,Bromoviridae
+Prunus necrotic ringspot virus,Bromoviridae
+Prunus virus S,Carlavirus
+Pseudaletia convecta GV,Baculoviridae
+Pseudaletia convecta NPV,Baculoviridae
+Pseudaletia includens densovirus,Parvoviridae
+Pseudaletia separata GV,Baculoviridae
+Pseudaletia separata NPV,Baculoviridae
+Pseudaletia unipuncta cypovirus 11,Reoviridae
+Pseudaletia unipuncta GV,Baculoviridae
+Pseuderanthemum yellow vein virus,Geminiviridae
+Pseudocowpox virus,Poxviridae
+Pseudolumpy skin disease virus,Herpesviridae
+Pseudomonas phage 12S,Myoviridae
+Pseudomonas phage 7s,Leviviridae
+Pseudomonas phage D3,Siphoviridae
+Pseudomonas phage F116,Podoviridae
+Pseudomonas phage f1,Myoviridae
+Pseudomonas phage f6,Cystoviridae
+Pseudomonas phage fKZ,Myoviridae
+Pseudomonas phage fW-14,Myoviridae
+Pseudomonas phage gh-1,Podoviridae
+Pseudomonas phage Kfl,Siphoviridae
+Pseudomonas phage M6,Siphoviridae
+Pseudomonas phage Pb1,Myoviridae
+Pseudomonas phage Pf2,Inoviridae
+Pseudomonas phage Pf3,Inoviridae
+Pseudomonas phage Pfl,Inoviridae
+Pseudomonas phage PP8,Myoviridae
+Pseudomonas phage PS17,Myoviridae
+Pseudomonas phage PS4,Siphoviridae
+Pseudomonas phage SDl,Siphoviridae
+Pseudomonas phag PRR1,Leviviridae
+Pseudoplusia includens NPV,Baculoviridae
+Pseudoplusia includens virus,Tetraviridae
+Pseudorabies virus,Herpesviridae
+Psilogramma menephron GV,Baculoviridae
+Psittacid herpesvirus,Herpesviridae
+Psittacinepox virus,Poxviridae
+Psophocarpus necrotic mosaic virus,Carlavirus
+Psorophora confinnis NPV,Baculoviridae
+Psorophora ferox NPV,Baculoviridae
+Psorophora varipes NPV,Baculoviridae
+Pterolocera amplicornis NPV,Baculoviridae
+Ptycholomoides aeriferana NPV,Baculoviridae
+Ptychopoda seriata NPV,Baculoviridae
+Puchong virus,Rhabdoviridae
+Pueblo Viejo virus,Bunyaviridae
+Puffin lsland virus,Bunyaviridae
+Punta Salinas virus,Bunyaviridae
+Punta Toro virus,Bunyaviridae
+Purus virus,Reoviridae
+Puumala virus,Bunyaviridae
+Pygaera anachoreta GV,Baculoviridae
+Pygaera anastomosis GV,Baculoviridae
+Pygaera anastomosis NPV,Baculoviridae
+Pygaera hllgurita NPV,Baculoviridae
+Pyrausta diniasalis NPV,Baculoviridae
+Qalyub virus,Bunyaviridae
+Quail pea mosaic virus,Comoviridae
+Quailpox virus,Poxviridae
+Queensland fruitfly virus,Picornaviridae
+Quokkapox virus,Poxviridae
+Rabbit coronavirus,Coronaviridae
+Rabbit fibroma virus,Poxviridae
+Rabbit hemorrhagic disease virus,Caliciviridae
+Rabbit kidney vacuolating virus,Papovaviridae
+Rabbit oral papillomavirus,Papovaviridae
+Rabbitpox virus,Poxviridae
+Rabies virus,Rhabdoviridae
+Raccoon parvovirus,Parvoviridae
+Raccoonpox virus,Poxviridae
+Rachiplusia nu NPV,Baculoviridae
+Rachiplusia ou MNPV,Baculoviridae
+Radish mosaic virus,Comoviridae
+Radish yellow edge virus,Partitiviridae
+Radi virus,Rhabdoviridae
+Rangifer tarandus herpesvirus,Herpesviridae
+Ranid herpesvirus 1,Herpesviridae
+Ranid herpesvirus 2,Herpesviridae
+Ranunculus mottle virus,Potyviridae
+Ranunculus repens syrnptomless virus,Rhabdoviridae
+Raphanus virus,Rhabdoviridae
+Raspberry bushy dwarf virus,Idaeovirus
+Raspberry leaf curl virus,Luteovirus
+Raspberry ringspot virus,Comoviridae
+Raspberry vein chlorosis virus,Rhabdoviridae
+Rat coronavirus,Coronaviridae
+Rat cytomegalovirus,Herpesviridae
+Rat virus,Parvoviridae
+Raza virus,Bunyaviridae
+Razdan virus,Bunyaviridae
+Red clover cryptic virus 2,Partitiviridae
+Red clover mosaic virus,Rhabdoviridae
+Red clover mottle virus,Comoviridae
+Red clover necrotic mosaic virus,Dianthovirus
+Red clover vein mosaic virus,Carlavirus
+Red deer herpesvirus,Herpesviridae
+Red kangaroopox virus,Poxviridae
+Red pepper cryptic virus 1,Partitiviridae
+Red pepper cryptic virus 2,Partitiviridae
+Reed Ranch virus,Rhabdoviridae
+Reindeer herpesvirus,Herpesviridae
+Reindeer papillomavirus,Papovaviridae
+Rembrandt tulip breaking virus,Potyviridae
+Reovirus 1,Reoviridae
+Reovirus 2,Reoviridae
+Reovirus 3,Reoviridae
+Reptile calicivirus,Caliciviridae
+Resistencia virus,Bunyaviridae
+Restan virus,Bunyaviridae
+Reticuloendotheliosis virus,Retroviridae
+Rhesus HHV-4-like virus,Herpesviridae
+Rhesus leukocyte associated herpesvirus strain 1,Herpesviridae
+Rhesus monkey cytomegalovirus,Herpesviridae
+Rhesus monkey papillomavirus,Papovaviridae
+Rheumaptera hastata GV,Baculoviridae
+Rheumatoid arthritis virus,Parvoviridae
+Rhizidiomyces virus,Rhizidiovirus
+Rhizobium phage 16-2,Siphoviridae
+Rhizobium phage 2,Podoviridae
+Rhizobium phage 317,Siphoviridae
+Rhizobium phage 5,Siphoviridae
+Rhizobium phage 7-7-7,Siphoviridae
+Rhizobium phage CM1,Myoviridae
+Rhizobium phage CT4,Myoviridae
+Rhizobium phage f2037/1,Siphoviridae
+Rhizobium phage f2042,Podoviridae
+Rhizobium phage fgal-1-R,Myoviridae
+Rhizobium phage m,Myoviridae
+Rhizobium phage NM1,Siphoviridae
+Rhizobium phage NT2,Siphoviridae
+Rhizobium phage WT1,Myoviridae
+Rhizoctonia solani virus,Partitiviridae
+Rhododendron necrotic ringspot virus,Potexvirus
+Rhubarb temperate virus,Partitiviridae
+Rhubarb virus 1,Potexvirus
+Rhyacionia buoliana GV,Baculoviridae
+Rhyacionia duplana GV,Baculoviridae
+Rhyacionia duplana NPV,Baculoviridae
+Rhyacionia frustrana GV,Baculoviridae
+Rhynchosciara angelae NPV,Baculoviridae
+Rhynchosciara hollaenderi NPV,Baculoviridae
+Rhynchosciara milleri NPV,Baculoviridae
+Rhynchosia mosaic virus,Geminiviridae
+Ribgrass mosaic virus,Tobamoviridae
+Rice black streaked dwarf virus,Reoviridae
+Rice dwarf virus,Reoviridae
+Rice gall dwarf virus,Reoviridae
+Rice grassy stunt virus,Tenuivirus
+Rice hoja blanca virus,Tenuivirus
+Rice necrosis mosaic virus,Potyviridae
+Rice ragged stunt virus,Reoviridae
+Rice stripe necrosis virus,Furovirus
+Rice stripe virus,Tenuivirus
+rice transitory yellowing virus,Rhabdoviridae
+Rice tungro bacilliform virus,Badnavirus
+Rice tungro spherical virus,Sequiviridae
+Rice yellow mottle virus,Sobemovirus
+Rift Valley fever virus,Bunyaviridae
+Rinderpest virus,Paramyxoviridae
+Rio Bravo virus,Flaviviridae
+Rio Grande cichlid virus,Rhabdoviridae
+Rio Grande virus,Bunyaviridae
+RML 105355 virus,Bunyaviridae
+Robinia mosaic virus,Bromoviridae
+Rochambeau virus,Rhabdoviridae
+Rocio virus,Flaviviridae
+Rondiotia menciana NPV,Baculoviridae
+Ross River virus,Togaviridae
+Rost Islands virus,Reoviridae
+Rotifer birnavirus,Birnaviridae
+Rous sarcoma virus,Retroviridae
+Royal farm virus,Flaviuiridae
+RT parvovirus,Parvoviridae
+Rubella virus,Togaviridae
+Rubus Chinese seed-borne virus,Comoviridae
+Russian spring sununer encephalitis virus,Flaviviridae
+Ryegrass cryptic virus,Partitiviridae
+Ryegrass mosaic virus,Potyviridae
+S6-14-03 virus,Reoviridae
+SA 15 virus,Herpesviridae
+SA6 virus,Herpesviridae
+SA8 virus,Herpesviridae
+Sabio virus,Arenaviridae
+Sabo virus,Bunyaviridae
+Saboya virus,Flaviviridae
+Sabulodes caberata GV,Baculoviridae
+Sacbrood virus,Picornaviridae
+Saccharomyces cerevisiae virus La,Totiviridae
+Saccharomyces cerevisiae virus L-A,Totiviridae
+Saccharomyces cerevisiae virus LBC,Totiviridae
+Sagiyama virus,Togaviridae
+Saguaro cactus virus,Tombusviridae
+Saimiriine herpesvirus 1,Herpesviridae
+Saimiriine herpesvirus 2,Herpesviridae
+Sainpaulia leaf necrosis virus,Rhabdoviridae
+SaintAbb's Head virus,Reoviridae
+Saint-Floris virus,Bunyaviridae
+Sakhalin virus,Bunyaviridae
+Salangapox virus,Poxviridae
+Salanga virus,Bunyaviridae
+Salehabad virus,Bunyaviridae
+Salmonid herpesvirus 1,Herpesviridae
+Salmonid herpesvirus 2,Herpesviridae
+Salmonis virus,Rhabdoviridae
+Sal Vieja virus,Flaviviridae
+Sambucus vein clearing virus,Rhabdoviridae
+Samia cynthia NPV,Baculoviridae
+Samia pryeri NPV,Baculoviridae
+Samia ricini NPV,Baculoviridae
+Sammons' Opuntia virus,Tobamoviridae
+SanAngelo virus,Bunyaviridae
+Sandfly fever Naples virus,Bunyaviridae
+Sandfly fever Sicilian virus,Bunyaviridae
+Sandjimba virus,Rhabdoviridae
+Sand rat nuclear inclusion agents,Herpesviridae
+Sango virus,Bunyaviridae
+San Juan virus,Bunyaviridae
+San Miguel sealion virus,Caliciviridae
+San Perlita virus,Flaviviridae
+Santarem virus,Bunyaviridae
+Santa Rosa virus,Bunyaviridae
+Santosai temperate virus,Partitiviridae
+Sapphire II virus,Bunyaviridae
+Saraca virus,Reoviridae
+Sarracenia purpurea virus,Rhabdoviridae
+Sathuperi virus,Bunyaviridae
+Satsuma dwarf virus,Comoviridae
+Saturnia pavonia virus,Tetraviridae
+Saturnia pyri NPV,Baculoviridae
+Saumarez Reef virus,Flaviviridae
+Sawgrass virus,Rhabdoviridae
+Sceliodes cordalis NPV,Baculoviridae
+Sciaphila duplex GV,Baculoviridae
+Scirpophaga incertulas NPV,Baculoviridae
+Sciurid herpesvirus 2,Herpesviridae
+Sciurid herpesvirus,Herpesviridae
+Scoliopteryx libatFix NPV,Baculoviridae
+Scopelodes contracta NPV,Baculoviridae
+Scopelodes venosa NPV,Baculoviridae
+Scopula subpunctaria NPV,Baculoviridae
+Scotogramma trifolii GV,Baculoviridae
+Scotogramma trifolu NPV,Baculoviridae
+Scrophularia mottle virus,Tymovirus
+Sealpox virus,Poxviridae
+Selenephera lunigera NPV,Baculoviridae
+Selepa celtis GV,Baculoviridae
+Seletar virus,Reoviridae
+Selidosema suavis NPV,Baculoviridae
+Semidonta biloba NPV,Baculoviridae
+Semiothisa sexmaculata GV,Baculoviridae
+Semliki Forest virus,Togaviridae
+Sena Madureira virus,Rhabdoviridae
+Sendai virus,Paramyxoviridae
+Seoul Virus,Bunyaviridae
+Sepik virus,Flaviviridae
+Serra do Navio virus,Bunyaviridae
+Serrano golden mosaic virus,Geminiviridae
+Sesame yellow mosaic virus,Potyviridae
+Sesamia calamistis NPV,Baculoviridae
+Sesamia cretica GV,Baculoviridae
+Sesamia inferens NPV,Baculoviridae
+Sesamia nonagrioides GV,Baculoviridae
+Setora nitens virus,Tetraviridae
+Shallot latent virus,Carlavirus
+Shamonda virus,Bunyaviridae
+Shark River virus,Bunyaviridae
+Sheep associated malignant catarrhal fever of,Herpesviridae
+Sheep papillomavirus,Papovaviridae
+Sheeppox virus,Poxviridae
+Sheep pulmonary adenomatosis associated herpesvirus,Herpesviridae
+Shiant Islands virus,Reoviridae
+Shokwe virus,Bunyaviridae
+Shope fibroma virus,Poxviridae
+Shuni virus,Bunyaviridae
+Siamese cobra herpesvirus,Herpesviridae
+Sibine fusca densovirus,Parvoviridae
+Sida golden mosaic virus,Geminiviridae
+Sida yellow vein virus,Geminiviridae
+Sigma virus,Rhabdoviridae
+Sikte water-borne virus,Tombusviridae
+Silverwater virus,Bunyaviridae
+Simbu virus,Bunyaviridae
+Simian adenoviruses 1 to 27,Adenoviridae
+Simian agent virus 12,Papovaviridae
+Simian enterovirus 1 to 18,Picornaviridae
+Simian foamy virus,Retroviridae
+Simian hemorrhagic fever virus,Arterivirus
+Simian hepatitis A virus,Picornaviridae
+Simian immunodeficiency virus,Retroviridae
+Simian parainfluenza virus 10,Paramyxoviridae
+Simian parainfluenza virus 41,Paramyxoviridae
+Simian parainfluenza virus 5,Paramyxoviridae
+Simian rotavirus SA11,Reoviridae
+Simian sarcoma virus,Retroviridae
+Simian T-lymphotropic virus,Retroviridae
+Simian type D virus 1,Retroviridae
+Simian vancella herpesvirus,Herpesviridae
+Simian virus 40,Papovaviridae
+Simulium vittatum densovirus,Parvoviridae
+Sindbis virus,Togaviridae
+Sint1em's onion latent virus,Carlavirus
+Sixgun city virus,Reoviridae
+Skunkpox virus,Poxviridae
+Smelt reovirus,Reoviridae
+Smerinthus ocellata NPV,Baculoviridae
+Smithiantha virus,Potexvirus
+Snakehead rhabdovirus,Rhabdoviridae
+Snowshoe hare virus,Bunyaviridae
+Snyder-Theilen feline sarcoma virus,Retroviridae
+Sofyn virus,Flaviviridae
+Soil-borne wheat mosaic virus,Furovirus
+Sokoluk virus,Flaviviridae
+Solanum apical leaf curl virus,Geminiviridae
+Solanum nodiflorum mottle virus satellite,Satellites
+Solanum nodiflorum mottle virus,Sobemovirus
+Solanurn yellows virus,Luteovirus
+Soldado virus,Bunyaviridae
+Somerville virus 4,Reoviridae
+Sonchus mottle virus,Caulimovirus
+Sonchus virus,Rhabdoviridae
+Sonchus yellow net virus,Rhabdoviridae
+Sorghum chlorotic spot virus,Furovirus
+Sorghum mosaic virus,Potyviridae
+Sorghum virus,Rhabdoviridae
+Sororoca virus,Bunyaviridae
+Soursop yellow blotch virus,Rhabdoviridae
+SouthAfrican passiflora virus,Potyviridae
+Southern bean mosaic virus,Sobemovirus
+Southern potato latent virus,Carlavirus
+South River virus,Bunyaviridae
+Sowbane mosaic virus,Sobemovirus
+Sowthistle yellow vein virus,Rhabdoviridae
+Soybean chlorotic mottle virus,Caulimovirus
+Soybean crinkle leaf virus,Geminiviridae
+Soybean dwarf virus,Luteovirus
+Soybean mosaic virus,Potyviridae
+SPAr-2317 virus,Bunyaviridae
+Sparganothis pettitana NPV,Baculoviridae
+Sparrowpox virus,Poxviridae
+Spartina mottle virus,Potyviridae
+Spectacled caimanpox virus,Poxviridae
+SPH 114202 virus,Arenaviridae
+Sphenicid herpesvirus 1,Herpesviridae
+Sphinx ligustri NPV,Baculoviridae
+Spider monkey herpesvirus,Herpesviridae
+Spilarctia subcarnea NPV,Baculoviridae
+Spilonota ocellana NPV,Baculoviridae
+Spilosoma lubricipeda NPV,Baculoviridae
+Spinach latent virus,Bromoviridae
+Spinach temperate virus,Partitiviridae
+Spiroplasma phage 1,Inoviridae
+Spiroplasma phage 4,Microviridae
+Spiroplasma phage aa,Inoviridae
+Spiroplasma phage C1 /TS2,Inoviridae
+Spodoptera exempta cypovirus 11,Reoviridae
+Spodoptera exempta cypovirus 12,Reoviridae
+Spodoptera exemptacypovirus 3,Reoviridae
+Spodoptera exempta cypovirus 5,Reoviridae
+Spodoptera exempta cypovirus 8,Reoviridae
+Spodoptera exempta NPV,Baculoviridae
+Spodoptera exigua cypovirus 11,Reoviridae
+Spodoptera exigua GV,Baculoviridae
+Spodoptera exigua MNPV,Baculoviridae
+Spodoptera exigua NPV,Baculoviridae
+Spodoptera frugiperda GV,Baculoviridae
+Spodoptera frugiperda MNPV,Baculoviridae
+Spodoptera frugiperda NPV,Baculoviridae
+Spodoptera latifascia NPV,Baculoviridae
+Spodoptera littoralis,Baculoviridae
+Spodoptera littoralis NPV,Baculoviridae
+Spodoptera litura GV,Baculoviridae
+Spodoptera litura NPV,Baculoviridae
+Spodoptera mauritia NPV,Baculoviridae
+Spodoptera ornithogalli NPV,Baculoviridae
+Spondweni virus,Flaviviridae
+Spring beauty latent virus,Bromoviridae
+Spring viremia of carp virus,Rhabdoviridae
+Squash leaf curl virus,Geminiviridae
+Squash mosaic virus,Comoviridae
+Squirrel fibroma virus,Poxviridae
+Squirrel monkey herpesvirus,Herpesviridae
+Squirrel monkey retrovirus,Retroviridae
+SR-11 virus,Bunyaviridae
+Sri Lankan passionfruit mottle virus,Potyviridae
+Sripur virus,Rhabdoviridae
+StAbbs Head virus,Bunyaviridae
+Staphylococcus phage 107,Siphoviridae
+Staphylococcus phage 187,Siphoviridae
+Staphylococcus phage 2848A,Siphoviridae
+Staphylococcus phage 3A,Siphoviridae
+Staphylococcus phage 44A HJD,Podoviridae
+Staphylococcus phage 77,Siphoviridae
+Staphylococcus phage B11-M15,Siphoviridae
+Staphylococcus phage Twort,Myoviridae
+Starlingpox virus,Poxviridae
+Statice virus Y,Potyviridae
+St. Louis encephalitis virus,Flaviviridae
+Stratford virus,Flaviviridae
+Strawberry crinkle virus,Rhabdoviridae
+Strawberry latent ringspot virus,Comoviridae
+Strawberry latent ringspot virus satellite,Satellites
+Strawberry mild yellow edge-associated virus,Potexvirus
+Strawberry mild yellow edge virus,Luteovirus
+Strawberry pseudo mild yellow edge virus,Carlavirus
+Strawberry vein banding virus,Caulimovirus
+Streptococcus phage 182,Podoviridae
+Streptococcus phage 24,Siphoviridae
+Streptococcus phage 2BV,Podoviridae
+Streptococcus phage A25,Siphoviridae
+Streptococcus phage CP-1,Podoviridae
+Streptococcus phage Cvir,Podoviridae
+Streptococcus phage fD8,Siphoviridae
+Streptococcus phage H39,Podoviridae
+Streptococcus phage PE1,Siphoviridae
+Streptococcus phage VD13,Siphoviridae
+Strigid herpesvirus 1,Herpesviridae
+Striped bass reovirus. ,Reoviridae
+Striped Jack nervous necrosis virus,Nodaviridae
+Stump-tailed macaque virus,Papovaviridae
+Subterranean clover mottle virus satellite,Satellites
+Subterranean clover mottle virus,Sobemovirus
+Subterranean clover red leaf virus,Luteovirus
+Subterranean clover stunt virus,Circoviridae
+Sugarcane bacilliform virus,Badnavirus
+Sugarcane mild mosaic virus,Closterovirus
+Sugarcane mosaic virus,Potyviridae
+Sugarcane streak virus,Geminiviridae
+Suid herpesvirus 1,Herpesviridae
+Suid herpesvirus 2,Herpesviridae
+Sulfolobus virus 1,Fuselloviridae
+Sunday Canyon virus,Bunyaviridae
+Sunflower crinkle virus,Umbravirus
+Sunflower mosaic virus,Potyviridae
+Sunflower rugose mosaic virus,Umbravirus
+Sunflower yellow blotch virus,Umbravirus
+Sunflower yellow ringspot virus,Umbravirus
+Sun-hemp mosaic virus,Tobamoviridae
+Sweet clover necrotic mosaic virus,Dianthovirus
+Sweet potato A virus,Potyviridae
+Sweet potato chlorotic leafspot virus,Potyviridae
+Sweet potato feathery mottle virus,Potyviridae
+Sweet potato internal cork virus,Potyviridae
+Sweet potato latent virus,Potyviridae
+Sweet potato mild mottle virus,Potyviridae
+Sweet potato russet crack virus,Potyviridae
+Sweet potato vein mosaic virus,Potyviridae
+Sweet potato yellow dwarf virus,Potyviridae
+Sweetwater Branch virus,Rhabdoviridae
+Swine cytomegalovirus,Herpesviridae
+Swine infertility and respiratory syndrome virus,Arterivirus
+Swinepox virus,Poxviridae
+Sword bean distortion mosaic virus,Potyviridae
+Synaxis jubararia NPV,Baculoviridae
+Synaxis pallulata NPV,Baculoviridae
+Synetaeris tenuifemur virus,Polydnaviridae
+Syngrapha selecta NPV,Baculoviridae
+Tacaiuma virus,Bunyaviridae
+Tacaribe virus,Arenaviridae
+Tadpole edema virus LT 1-4,Iridoviridae
+Taggert virus,Bunyaviridae
+Tahyna virus,Bunyaviridae
+Taiassui virus,Bunyaviridae
+Tai virus,Bunyaviridae
+Tamana bat virus,Flaviviridae
+Tamarillo mosaic virus,Potyviridae
+Tamdy virus,Bunyaviridae
+Tamiami virus,Arenaviridae
+Tanapox virus,Poxviridae
+Tanga virus,Bunyaviridae
+Tanjong Rabok virus,Bunyaviridae
+Taro bacilliform virus,Unassigned
+Taterapox virus,Poxviridae
+Teasel mosaic virus,Potyviridae
+Tehran virus,Bunyaviridae
+Telfairia mosaic virus,Potyviridae
+Telok Forest virus,Bunyaviridae
+Tembe virus,Reoviridae
+Tembusu virus,Flaviviridae
+Tench reovirus,Reoviridae
+Tensaw virus,Bunyaviridae
+Tephrosia symptomless virus,Tombusviridae
+Termeil virus,Bunyaviridae
+Tete virus,Bunyaviridae
+Tetralopha scortealis NPV,Baculoviridae
+Tetropium cinnamoptemm NPV,Baculoviridae
+Texas pepper virus,Geminiviridae
+Thailand virus,Bunyaviridae
+Thaumetopoea pityocampa GV,Baculoviridae
+Thaumetopoea pityocampa NPV,Baculoviridae
+Thaumetopoea processionea NPV,Baculoviridae
+Theiler's murine encephalomyelitis virus,Picornaviridae
+Theophila mandarina NPV,Baculoviridae
+Theretra japonica NPV,Baculoviridae
+Thermoproteus virus 1,Lipothrixviridae
+Thermoproteus virus 2,Lipothrixviridae
+Thermoproteus virus 3,Lipothrixviridae
+Thermoproteus virus 4,Lipothrixviridae
+Thiafora virus,Bunyaviridae
+Thimiri virus,Bunyaviridae
+Thistle mottle virus,Caulimovirus
+Thogoto virus,Orthomyxoviridae
+Thormodseyjarklettur virus,Reoviridae
+Thosea asigna virus,Tetraviridae
+Thosea baibarana NPV,Baculoviridae
+Thosea sinensis GV,Baculoviridae
+Thottapalayam virus,Bunyaviridae
+Thylidolpteryx ephemeraeformis NPV,Baculoviridae
+Thymelicus lineola NPV,Baculoviridae
+Tibrogargan virus,Rhabdoviridae
+Ticera castanea NPV,Baculoviridae
+Tick-borne encephalitis virus,Flaviviridae
+Tillamook virus,Bunyaviridae
+Tilligerry virus,Reoviridae
+Tilmaroo virus,Bunyaviridae
+Tilmboteua virus,Bunyaviridae
+Timbo virus,Rhabdoviridae
+Tindholmur virus,Reoviridae
+Tinea pellionella NPV,Baculoviridae
+Tineola hisselliella NPV,Baculoviridae
+Tinpula paludosa NPV,Baculoviridae
+Tinracola plagiata NPV,Baculoviridae
+Tlacotalpan virus,Bunyaviridae
+Tobacco bushy top virus,Umbravirus
+Tobacco etch virus,Potyviridae
+Tobacco leaf curl virus,Geminiviridae
+Tobacco mild green mosaic virus,Tobamoviridae
+Tobacco mosaic virus satellite,Satellites
+Tobacco mosaic virus,Tobamoviridae
+Tobacco mottle virus,Umbravirus
+Tobacco necrosis virus,Necrovirus
+Tobacco necrosis virus satellite,Satellites
+Tobacco necrosis virus small satellite,Satellites
+Tobacco necrotic dwarf virus,Luteovirus
+Tobacco rattle virus,Tobravirus
+Tobacco ringspot virus,Comoviridae
+Tobacco ringspot virus satellite,Satellites
+Tobacco streak virus,Bromoviridae
+Tobacco stunt virus,Unassigned
+Tobacco vein banding mosaic virus,Potyviridae
+Tobacco vein distorting virus,Luteovirus
+Tobacco vein mottling virus,Potyviridae
+Tobacco wilt virus,Potyviridae
+Tobacco yellow dwarf virus,Geminiviridae
+Tobacco yellow net virus,Luteovirus
+Tobacco yellow vein assistor virus,Luteovirus
+Tobacco yellow vein virus,Umbravirus
+Tomato apical stunt viroid,Viroids
+Tomato aspermy virus,Bromoviridae
+Tomato black ring virus,Comoviridae
+Tomato black ring virus satellite,Satellites
+Tomato bunchy top viroid,Viroids
+Tomato bushy stunt virus satellite,Satellites
+Tomato bushy stunt virus,Tombusviridae
+Tomato golden mosaic virus,Geminiviridae
+Tomato leaf crumple virus,Geminiviridae
+Tomato leaf curl virus -Au,Geminiviridae
+Tomato leaf curl virus-In,Geminiviridae
+Tomato leafroll virus,Geminiviridae
+Tomato mosaic virus,Tobamoviridae
+Tomato mottle virus,Geminiviridae
+Tomato pale chlorosis virus,Carlavirus
+Tomato planta macho viroid,Viroids
+Tomato pseudo-curly top virus,Geminiviridae
+Tomato ringspot virus,Comoviridae
+Tomato spotted wilt virus,Bunyaviridae
+Tomato top necrosis virus,Comoviridae
+Tomato vein yellowing virus,Rhabdoviridae
+Tomato yellow dwarf virus,Geminiviridae
+Tomato yellow leaf curl virus-Is,Geminiviridae
+Tomato yellow leaf curl virus-Sr,Geminiviridae
+Tomato yellow leaf curl virus-Th,Geminiviridae
+Tomato yellow leaf curl virus-Ye,Geminiviridae
+Tomato yellow mosaic virus,Geminiviridae
+Tomato yellow top virus,Luteovirus
+Tongan vanilla virus,Potyviridae
+Tortrix loeflingiana NPV,Baculoviridae
+Tortrix viridana NPV,Baculoviridae
+Toscana virus,Bunyaviridae
+Toxorhynchites brevipalpis NPV,Baculoviridae
+Trabala vishnou NPV,Baculoviridae
+Tradescantia/Zebrina virus,Potyviridae
+Trager duck spleen necrosis virus,Retroviridae
+Tranosema sp. virus,Polydnaviridae
+Tree shrew adenovirus 1,Adenoviridae
+Tree shrew herpesvims,Herpesviridae
+Triatoma virus,Picornaviridae
+Tribec virus,Reoviridae
+Trichiocampus irregularis NPV,Baculoviridae
+Trichiocampus viminalis NPV,Baculoviridae
+Trichomonas vaginalis virus,Totiviridae
+Trichoplusia ni cypovirus 5,Reoviridae
+Trichoplusia ni granulovirus,Baculoviridae
+Trichoplusia ni MNPV,Baculoviridae
+Trichoplusia ni Single SNPV,Baculoviridae
+Trichoplusia ni virus,Tetraviridae
+Trichosanthes mottle virus,Potyviridae
+Triticum aestivum chlorotic spot virus,Rhabdoviridae
+Trivittatus virus,Bunyaviridae
+Trombetas virus,Bunyaviridae
+Tropaeolum virus 1,Potyviridae
+Tropaeolum virus 2,Potyviridae
+Trubanarnan virus,Bunyaviridae
+Tsuruse virus,Bunyaviridae
+Tucunduba virus,Bunyaviridae
+Tulare apple mosaic virus,Bromoviridae
+Tulip band breaking virus,Potyviridae
+Tulip breaking virus,Potyviridae
+Tulip chlorotic blotch virus,Potyviridae
+Tulip top breaking virus,Potyviridae
+Tulip virus X,Potexvirus
+Tumor virus X,Parvoviridae
+Tupaia virus,Rhabdoviridae
+Tupaiid herpesvirus 1,Herpesviridae
+Turbot herpesvirus,Herpesviridae
+Turbot reovirus,Reoviridae
+Turkey adenoviruses 1 to 3,Adenoviridae
+Turkey coronavirus,Coronaviridae
+Turkey herpesvirus 1,Herpesviridae
+Turkeypox virus,Poxviridae
+Turkey rhinotracheitis virus,Paramyxoviridae
+Turlock virus,Bunyaviridae
+Turnip crinkle virus satellite,Satellites
+Turnip crinkle virus,Tombusviridae
+Turnip mild yellows virus,Luteovirus
+Turnip mosaic virus,Potyviridae
+Turnip rosette virus,Sobemovirus
+Turnip yellow mosaic virus,Tymovirus
+Turuna virus,Bunyaviridae
+Tyuleniy virus,Flaviviridae
+Uasin Gishu disease virus,Poxviridae
+Uganda S virus,Flaviviridae
+Ugymyia sericariae NPV,Baculoviridae
+Ulcerative disease rhabdovirus,Rhabdoviridae
+Ullucus mild mottle virus,Tobamoviridae
+Ullucus mosaic virus,Potyviridae
+Ullucus virus C,Comoviridae
+Umatilla virus,Reoviridae
+Umbre virus,Bunyaviridae
+Una virus,Togaviridae
+Upolu virus,Bunyaviridae
+UR2 sarcoma virus,Retroviridae
+Uranotaenia sapphirina NPV,Baculoviridae
+Urbanus proteus NPV,Baculoviridae
+Urucuri virus,Bunyaviridae
+Ustilago maydis virus 1,Totiviridae
+Ustilago maydis virus 4,Totiviridae
+Ustilago maydis virus 6,Totviridae
+Usutu virus,Flaviviridae
+Utinga virus,Bunyaviridae
+Utive virus,Bunyaviridae
+Uukuniemi virus,Bunyaviridae
+Vaccinia subspecies,Poxviridae
+Vaccinia virus,Poxviridae
+Vaeroy virus,Reoviridae
+Vallota mosaic virus,Potyviridae
+Vanessa atalanta NPV,Baculoviridae
+Vanessa cardui NPV,Baculoviridae
+Vanessa prorsa NPV,Baculoviridae
+Vanilla mosaic virus,Potyviridae
+Vanilla necrosis virus,Potyviridae
+Varicella-zoster virus 1,Herpesviridae
+Variola virus,Poxviridae
+Vellore virus,Reoviridae
+Velvet tobacco mottle virus satellite,Satellites
+Velvet tobacco mottle virus,Sobemovirus
+Venezuelan equine encephalitis virus,Togaviridae
+Vesicular exanthema of swine virus,Caliciviridae
+Vesicular stomatitisAlagoas virus,Rkabdoviridae
+Vesicular stomatitis Indiana virus,Rhabdoviridae
+Vesicular stomatitis New Jersey virus,Rhabdoviridae
+Vibrio phage 06N-22P,Myoviridae
+Vibrio phage 06N-58P,Corticoviridae
+Vibrio phage 4996,Podoviridae
+Vibrio phage a3a,Siphoviridae
+Vibrio phage II,Myoviridae
+Vibrio phage I,Podoviridae
+Vibrio phage IV,Siphoviridae
+Vibrio phage kappa,Myoviridae
+Vibrio phage m,Podoviridae
+Vibrio phage nt-1,Myoviridae
+Vibrio phage OXN-52P,Siphoviridae
+Vibrio phage OXN-lOOP,Podoviridae
+Vibrio phage v6,Inoviridae
+Vibrio phage Vf33,Inoviridae
+Vibrio phage Vfl2,Inoviridae
+Vibrio phage VP11,Siphoviridae
+Vibrio phage VP1,Myoviridae
+Vibrio phage VP3,Siphoviridae
+Vibrio phage VP5,Siphoviridae
+Vibrio phage X29,Myoviridae
+Vicia cryptic virus,Partitiviridae
+Vigna sinensis mosaic virus,Rkabdoviridae
+Vilyuisk virus,Picornaviridae
+Vinces virus,Bunyaviridae
+Viola mottle virus,Potexvirus
+Viper retrovirus,Retroviridae
+Viral hemorrhagic septicemia virus,Rhabdoviridae
+Virgin River virus,Bunyaviridae
+Virus III,Herpesviridae
+Visna/maedi virus,Retroviridae
+Voandzeia mosaic virus,Carlavirus
+Voandzeia necrotic mosaic virus,Tymovirus
+Volepoxvirus,Poxviridae
+Wad Medani virus,Reoviridae
+Wallal virus,Reoviridae
+Walleye epidermal hyperplasia,Herpesviridae
+Walrus calicivirus,Caliciviridae
+Wanowrie virus,Bunyaviridae
+Warrego virus,Reoviridae
+Watermelon chlorotic stunt virus,Geminiviridae
+Watermelon curly mottle virus,Geminiviridae
+Watermelon mosaic virus 2,Potyviridae
+Waterrnelon mosaic virus 1,Potyviridae
+Weddel water-borne virus,Tombusviridae
+Weldona virus,Bunyaviridae
+Wesselsbron virus,Flaviviridae
+Western equine encephalitis virus,Togaviridae
+West Nile virus,Flaviviridae
+Wexford virus,Reoviridae
+Whataroa virus,Togaviridae
+Wheat American striate mosaic virus,Rhabdoviridae
+Wheat chlorotic streak virus,Rhabdoviridae
+Wheat dwarf virus,Geminiviridae
+Wheat rosette stunt virus,Rhabdoviridae
+Wheat spindle streak mosaic virus,Potyviridae
+Wheat streak mosaic virus,Potyviridae
+Wheat yellow leaf virus,Closterovirus
+Wheat yellow mosaic virus,Potyviridae
+White bryony mosaic virus,Carlavirus
+White bryony virus,Potyviridae
+White clover cryptic virus 1,Partitiviridae
+White clover cryptic virus 2,Partitiviridae
+White clover cryptic virus 3,Partitiviridae
+White clover mosaic virus,Potexvirus
+White lupinrnosaic virus,Potyviridae
+Wildbeest herpesvirus,Herpesviridae
+Wild cucumber mosaic virus,Tymovirus
+Wild potato mosaic virus,Potyviridae
+Wineberry latent virus,Potexvirus
+Winter wheat mosaic virus,Tenuivirus
+Winter wheat Russian mosaic virus,Rhabdoviridae
+Wiseana cervinata GV,Baculoviridae
+Wiseana cervinata NPV,Baculoviridae
+Wiseana signata NPV,Baculoviridae
+Wiseana umbraculata GV,Baculoviridae
+Wiseana umbraculata NPV,Baculoviridae
+Wissadula mosaic virus,Geminiviridae
+Wisteria vein mosaic virus,Potyviridae
+Witwatersrand virus,Bunyaviridae
+Wongal virus,Bunyaviridae
+Wongorr virus,Reoviridae
+Woodchuck hepatitis B virus,Hepadnaviridae
+Woodchuck herpesvirus marmota 1,Herpesviridae
+Woolly monkey sarcoma virus,Retroviridae
+Wound tumor virus,Reoviridae
+WVU virus 2937,Reoviridae
+WW virus 71 to 212,Reoviridae
+Wyeomyia smithii NPV,Baculoviridae
+Wyeomyia virus,Bunyaviridae
+Xanthomonas phage Cf,Inoviridae
+Xanthomonas phage Cflt,Inoviridae
+Xanthomonas phage RR66,Podoviridae
+Xanthomonas phage Xf2,Inoviridae
+Xanthomonas phage Xf,Inoviridae
+Xanthomonas phage XP5,Myoviridae
+Xenopus virus T21,Iridoviridae
+Xiburema virus,Rhabdoviridae
+Xingu virus,Bunyaviridae
+Xylena curvimacula NPV,Baculoviridae
+Y73 sarcoma virus,Retroviridae
+Yaba-1 virus,Bunyaviridae
+Yaba-7 virus,Bunyaviridae
+Yaba monkey tumor virus,Poxviridae
+Yacaaba virus,Bunyaviridae
+Yam mosaic virus,Potyviridae
+Yaounde virus,Flaviviridae
+Yaquina Head virus,Reoviridae
+Yata virus,Rhabdoviridae
+Yellow fever virus,Flaviviridae
+Yogue virus,Bunyaviridae
+Yokapox virus,Poxviridae
+Yokase virus,Flaviviridae
+Yponomeuta cognatella NPV,Baculoviridae
+Yponomeuta evonymella NPV,Baculoviridae
+Yponomeuta malinellus NPV,Baculoviridae
+Yponomeuta padella NPV,Baculoviridae
+Yucca baciliform virus,Badnavirus
+Yug Bogdanovac virus,Rhabdoviridae
+Zaliv Terpeniya virus,Bunyaviridae
+Zea mays virus,Rhabdoviridae
+Zegla virus,Bunyaviridae
+Zeiraphera diniana GV,Baculoviridae
+Zeiraphera diniana NPV,Baculoviridae
+Zeiraphera pseudotsugana NPV,Baculoviridae
+Zika virus,Flaviviridae
+Zirqa virus,Bunyaviridae
+Z murine adenovirus 1,Adenoviridae
+Zoysia mosaic virus,Potyviridae
+Zucchini yellow fleck virus,Potyviridae
+Zucchini yellow mosaic virus,Potyviridae
+Zygocactus virus,Potexvirus
