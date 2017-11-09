@@ -1,4 +1,5 @@
 import numpy as np
+import matplotlib.pyplot as plt
 from viralnames import get_virus_pair
 from names import get_first_name
 from tqdm import trange
@@ -14,17 +15,9 @@ def prod(l):
     return reduce(mul, l)
 
 
-parser = ArgumentParser()
-parser.add_argument('--verbose', '-v', action='store_true')
-parser.add_argument('--running', '-r', action='store_true')
-parser.add_argument('--population', '-p', action='store')
-parser.add_argument('--length', '-l', action='store')
-parser.add_argument('--barchart', '-b', action='store_true')
-clargs = parser.parse_args()
-
-INITIAL_POPULATION = 10
-SIMULATION_LENGTH = 2000
-FOOD_START = 10000
+INITIAL_POPULATION = 100000
+SIMULATION_LENGTH = 500
+FOOD_START = 1000
 FOOD_GROW = 2000
 REPRODUCTIVE_RATE = 40
 AVERAGE_AGE = 50
@@ -44,6 +37,7 @@ class Simulation:
         self.population = [Person(self.food) for i in trange(self.size)]
 
     def run(self):
+        x, y1, y2 = [], [], []
         msg = '{:3}: Pop: {:5} Food: {:5}'
         for i in range(self.length):
             if len(self.population) < 1:
@@ -56,29 +50,39 @@ class Simulation:
                     self.population.remove(ent)
                 if ent.gender == 'female':
                     self.birth(ent)
+            x.append(i)
+            y1.append(len(self.population))
+            y2.append(self.food.total)
         print('Population: {}'.format(len(self.population)))
-        self.population_stats()
+        # self.population_stats()
+        self.plot(x, {'Population': y1,
+                      'Food': y2})
 
     def population_stats(self):
         max_gen = max([i.dna['generation'] for i in self.population])
         avg_age = mean([i.dna['avg_age'] for i in self.population])
-        avg_cld = mean([i.children for i in self.population if i.gender == 'female'])
+        avg_cld = mean([i.children for i in self.population
+                        if i.gender == 'female'])
         msg = "Max Generation: {:4} Average Age: {:4} Average Children: {:4}"
         print(msg.format(max_gen, avg_age, avg_cld))
 
     def birth(self, entity):
-        chld = entity.children <= 5
+        chld = entity.children <= 2
         fert = (entity.life_x * 0.25) < entity.age < (entity.life_x * 0.5)
         hung = not entity.hungry
         chnc = randint(0, 1) == 0
         conds = [fert, hung, chld, chnc]
         if prod(conds) == 1:
-            # print('{} had a baby!'.format(entity.name))
-            # print('{} children already...'.format(entity.children))
             entity.children += 1
             self.population.append(Person(self.food, dna=entity.dna))
         else:
             pass
+
+    def plot(self, x, variables):
+        for key, value in variables.items():
+            plt.plot(x, value, alpha=0.6, label=key)
+        plt.legend()
+        plt.show()
 
 
 class Food:
@@ -94,7 +98,7 @@ class Food:
         growth_amt = np.random.normal(loc=self.growth, scale=5)
         self.total += int(growth_amt)
         # else:
-            # self.active = False
+        # self.active = False
 
     def eat(self):
         if self.total > 0:
@@ -184,6 +188,15 @@ if __name__ == '__main__':
     main()
     msg = 'Time taken: {:10}'
     print(msg.format(round(time() - START, 3)))
+
+
+parser = ArgumentParser()
+parser.add_argument('--verbose', '-v', action='store_true')
+parser.add_argument('--running', '-r', action='store_true')
+parser.add_argument('--population', '-p', action='store')
+parser.add_argument('--length', '-l', action='store')
+parser.add_argument('--barchart', '-b', action='store_true')
+clargs = parser.parse_args()
 
 
 class Virus:
