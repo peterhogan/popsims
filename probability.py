@@ -32,13 +32,13 @@ def P_n(l):
     for i in range(len(sample_space)):
         try:
             if sample_space[i] <= choice < sample_space[i+1]:
+                index = sample_space[i]
                 break
-            else:
-                index += 1
         except IndexError:
             if sample_space[i] <= choice:
-                break
-            # index -= 1
+                index = sample_space[i]
+    p_index = index/multi
+
     return l[index][0]
 
 
