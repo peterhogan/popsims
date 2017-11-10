@@ -24,21 +24,19 @@ def P(x):
 def P_n(l):
     sample_space = [0]
     multi = max([len(str(i[1]).split('.')[1]) for i in l])
-    for item, prob in l:
-        numerator = int(prob * 10**multi)
+    for name, p in l:
+        numerator = int(p * 10**multi)
         sample_space.append(sample_space[-1] + numerator)
-    choice = randint(0, sample_space[-1])
+    choice = randint(0, sample_space[-1]-1)
     index = 0
     for i in range(len(sample_space)):
         try:
             if sample_space[i] <= choice < sample_space[i+1]:
-                index = sample_space[i]
+                index = i
                 break
         except IndexError:
             if sample_space[i] <= choice:
-                index = sample_space[i]
-    p_index = index/multi
-
+                index = i
     return l[index][0]
 
 
@@ -62,12 +60,12 @@ def assess(n, p):
 
 
 if __name__ == '__main__':
-    ls = [('A', 0.5),  ('B', 0.5)]
+    ls = [('A', 0.55), ('B', 0.05), ('C', 0.1), ('D', 0.1), ('E', 0.1), ('F', 0.1)]
     print(ls)
-    cnt = assessPn(ls, 10000000)
+    cnt = assessPn(ls, int(sys.argv[1]))
     sm = []
     for k, v in cnt.items():
-        print(k, v/10000000)
-        sm.append(v/10000000)
+        print(k, v/int(sys.argv[1]))
+        sm.append(v/int(sys.argv[1]))
     print(sum(sm))
     # assess(sys.argv[1], sys.argv[2])
