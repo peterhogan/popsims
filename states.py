@@ -1,4 +1,6 @@
 from probability import P_n
+from tqdm import trange
+from time import time
 import sys
 
 class Person:
@@ -36,10 +38,15 @@ class Person:
                            (self.dead, 0.0),(self.reproduce, 0.0)]
 
 if __name__ == '__main__':
+    start = time()
     pop = [Person() for i in range(100)]
-    for i in range(int(sys.argv[1])):
-        print(str(i)+': '+str(len([p for p in pop if p.state != 'DEAD'])))
+    for i in trange(int(sys.argv[1])):
+        #print(str(i)+': '+str(len([p for p in pop if p.state != 'DEAD'])))
         for person in pop:
             person.step()
             if person.state == 'REPRODUCING':
                 pop.append(Person())
+            elif person.state == 'DEAD':
+                pop.remove(person)
+    print(str(len([p for p in pop if p.state != 'DEAD'])), 'still alive...')
+    print('time taken: {}'.format(time() - start))
