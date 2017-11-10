@@ -1,21 +1,45 @@
-from probability import P
+from probability import P_n
+import sys
 
 class Person:
 
-    def __init__(self, init_state):
-        self.state = init_state
+    def __init__(self):
+        self.state = 'HEALTHY'
+        self.all_states = [(self.healthy, 1.0),(self.sick, 0.0),
+                           (self.dead, 0.0),(self.reproduce, 0.0)]
 
-    def increment(self):
-
+    def step(self):
+        if self.state == 'DEAD':
+            pass
+        else:
+            result = P_n(self.all_states)
+            result()
 
     def healthy(self):
-        pass
+        self.state = 'HEALTHY'
+        self.all_states = [(self.healthy, 0.65),(self.sick, 0.3),
+                           (self.dead, 0.0),(self.reproduce, 0.05)]
 
     def sick(self):
-        pass
+        self.state = 'SICK'
+        self.all_states = [(self.healthy, 0.5),(self.sick, 0.4),
+                           (self.dead, 0.1),(self.reproduce, 0.0)]
 
     def dead(self):
-        pass
+        self.state = 'DEAD'
+        self.all_states = [(self.healthy, 0.0),(self.sick, 0.0),
+                           (self.dead, 1.0),(self.reproduce, 0.0)]
 
     def reproduce(self):
-        pass
+        self.state = 'REPRODUCING'
+        self.all_states = [(self.healthy, 1.0),(self.sick, 0.0),
+                           (self.dead, 0.0),(self.reproduce, 0.0)]
+
+if __name__ == '__main__':
+    pop = [Person() for i in range(100)]
+    for i in range(int(sys.argv[1])):
+        print(str(i)+': '+str(len([p for p in pop if p.state != 'DEAD'])))
+        for person in pop:
+            person.step()
+            if person.state == 'REPRODUCING':
+                pop.append(Person())
