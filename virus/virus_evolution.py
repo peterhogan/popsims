@@ -9,6 +9,7 @@ from operator import mul
 from functools import reduce
 from random import randint
 from statistics import mean
+from prob import P
 
 
 def prod(l):
