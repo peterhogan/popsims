@@ -10,7 +10,10 @@ SIMULATION_LENGTH = 500
 FERT_START = 16
 FERT_END = 50
 
-class Grass
+class Food:
+
+    def __init__(self):
+
 
 
 parser = ArgumentParser()
