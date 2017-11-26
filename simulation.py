@@ -5,6 +5,7 @@ from time import time
 from argparse import ArgumentParser
 from statistics import mean
 from stateful_person import StatePerson
+import matplotlib.pyplot as plt
 
 INITAL_POPULATION = 1000
 SIMULATION_LENGTH = 500
@@ -14,29 +15,38 @@ FERT_END = 50
 
 class Sim:
 
+    x, y1 = [], []
+
     def __init__(self, entitytype, initpop, simlength):
         self.entitytype = entitytype
         self.initpop = initpop
         self.simlength = simlength
         self.extinction = False
         self.children_born = 0
+        self.population = [self.entitytype({})
+                           for i in trange(self.initpop)]
+
+    def capture(self, i):
+        self.x.append(i)
+        self.y1.append(len(self.population)/self.initpop)
 
     def run(self):
         start = time()
-        pop = [self.entitytype({}) for i in trange(self.initpop)]
         for i in trange(self.simlength):
-            if len(pop) == 0:
+            if i % 10 == 0:
+                self.capture(i)
+            if len(self.population) == 0:
                 self.extinction = True
                 break
-            for entity in pop:
+            for entity in self.population:
                 entity.step()
                 if entity.state == 'REPRODUCE':
-                    pop.append(self.entitytype(entity.dna))
+                    self.population.append(self.entitytype(entity.dna))
                     entity.children += 1
                     self.children_born += 1
                 elif entity.state == 'DEAD':
-                    pop.remove(entity)
-        self.finish(start, pop)
+                    self.population.remove(entity)
+        self.finish(start, self.population)
 
     def finish(self, start, pop):
         if self.extinction:
@@ -63,9 +73,18 @@ class Sim:
                 for i in pop:
                     print(i)
         print('time taken: {}'.format(time() - start))
+        if cli.barchart:
+            self.barchart()
+
+    def barchart(self):
+        plt.plot(self.x, self.y1, alpha=0.6, label='Population')
+        plt.legend()
+        plt.show()
 
 
 parser = ArgumentParser()
+parser.add_argument('--barchart', '-b', action='store_true',
+                    default=False)
 parser.add_argument('--output', '-o', action='store_true',
                     default=False)
 parser.add_argument('--sample-output', action='store_true',
