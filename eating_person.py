@@ -1,4 +1,4 @@
-from popsim.stateful_person import StatePerson
+from stateful_person import StatePerson
 
 
 class EatingPerson(StatePerson):
@@ -12,10 +12,10 @@ class EatingPerson(StatePerson):
         self.state = 'HUNGRY'
         eat = self.food.eat()
         if eat > 0:
-            self.states = [(self.healthy, 0.6), (self.sick, 0.15),
+            self.states = [(self.healthy, 0.6), self.sick, 0.15),
                            (self.hungry, 0.25), (self.dead, 0.0),
                            (self.reproduce, 0.0)]
         else:
-            self.states = [(self.healthy, 0.6), (self.sick, 0.15),
-                           (self.hungry, 0.25), (self.dead, 0.0),
+            self.states = [(self.healthy, 0.0), (self.sick, 0.25),
+                           (self.hungry, 0.7), (self.dead, 0.05),
                            (self.reproduce, 0.0)]

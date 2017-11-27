@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo docker run -v $PWD:/usr/src/app -it \
+sudo docker run -v $PWD:/usr/src/app/popsim -it \
     -u $(id -u) \
     -e "DISPLAY" \
     -v /etc/group:/etc/group:ro  \
